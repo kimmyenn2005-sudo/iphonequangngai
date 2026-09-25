@@ -2,10 +2,28 @@
   "updated_at": "2026-09-15",
   "models": [
     {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "5.8 inch Super Retina HD OLED, 2436 × 1125, True Tone",
+      "body": "Khung thép không gỉ, mặt lưng kính",
+      "camera": "Camera kép 12MP: góc rộng + tele 2x; chống rung quang học kép",
+      "search": "iphone x",
       "name": "iPhone X",
       "slug": "iphone-x",
-      "search": "iphone x",
+      "chip": "A11 Bionic",
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#e7e7e4"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#4b4b4d"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "Face ID thế hệ đầu, màn hình OLED toàn màn hình",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -26,33 +44,37 @@
           "price_like_new": "6.500.000đ"
         }
       ],
+      "protection": "IP67",
       "in_stock": true,
-      "note": "",
+      "year": "2017"
+    },
+    {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "5.8 inch Super Retina HD OLED, 2436 × 1125",
+      "body": "Khung thép không gỉ, mặt lưng kính",
+      "camera": "Camera kép 12MP góc rộng + tele 2x; Smart HDR",
+      "search": "iphone xs",
+      "name": "iPhone XS",
+      "slug": "iphone-xs",
+      "chip": "A12 Bionic",
       "colors": [
         {
+          "name": "Gold",
+          "hex": "#d2b59b"
+        },
+        {
           "name": "Silver",
-          "hex": "#e7e7e4"
+          "hex": "#e8e7e2"
         },
         {
           "name": "Space Gray",
           "hex": "#4b4b4d"
         }
       ],
-      "year": "2017",
-      "display": "5.8 inch Super Retina HD OLED, 2436 × 1125, True Tone",
-      "chip": "A11 Bionic",
-      "camera": "Camera kép 12MP: góc rộng + tele 2x; chống rung quang học kép",
-      "body": "Khung thép không gỉ, mặt lưng kính",
-      "port": "Lightning • sạc không dây Qi",
-      "protection": "IP67",
-      "highlight": "Face ID thế hệ đầu, màn hình OLED toàn màn hình",
-      "images": []
-    },
-    {
-      "name": "iPhone XS",
-      "slug": "iphone-xs",
-      "search": "iphone xs",
       "visible": true,
+      "note": "",
+      "highlight": "Face ID, Dual SIM nano‑SIM + eSIM",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -79,59 +101,19 @@
           "price_like_new": "8.000.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Gold",
-          "hex": "#d2b59b"
-        },
-        {
-          "name": "Silver",
-          "hex": "#e8e7e2"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "#4b4b4d"
-        }
-      ],
-      "year": "2018",
-      "display": "5.8 inch Super Retina HD OLED, 2436 × 1125",
-      "chip": "A12 Bionic",
-      "camera": "Camera kép 12MP góc rộng + tele 2x; Smart HDR",
-      "body": "Khung thép không gỉ, mặt lưng kính",
-      "port": "Lightning • sạc không dây Qi",
       "protection": "IP68 (tối đa 2 m / 30 phút)",
-      "highlight": "Face ID, Dual SIM nano‑SIM + eSIM",
-      "images": []
+      "in_stock": true,
+      "year": "2018"
     },
     {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "6.1 inch Liquid Retina HD LCD, 1792 × 828",
+      "body": "Khung nhôm, mặt lưng kính",
+      "camera": "Camera đơn 12MP góc rộng, Portrait mode, Smart HDR",
+      "search": "iphone xr",
       "name": "iPhone XR",
       "slug": "iphone-xr",
-      "search": "iphone xr",
-      "visible": true,
-      "rows": [
-        {
-          "storage": "64GB",
-          "price_95": "3.500.000đ",
-          "price_99": "4.800.000đ",
-          "price_like_new": "5.500.000đ"
-        },
-        {
-          "storage": "128GB",
-          "price_95": "4.000.000đ",
-          "price_99": "5.500.000đ",
-          "price_like_new": "6.500.000đ"
-        },
-        {
-          "storage": "256GB",
-          "price_95": "4.400.000đ",
-          "price_99": "6.300.000đ",
-          "price_like_new": "7.500.000đ"
-        }
-      ],
-      "in_stock": true,
-      "note": "",
+      "chip": "A12 Bionic",
       "colors": [
         {
           "name": "Black",
@@ -158,21 +140,61 @@
           "hex": "#b51f2a"
         }
       ],
-      "year": "2018",
-      "display": "6.1 inch Liquid Retina HD LCD, 1792 × 828",
-      "chip": "A12 Bionic",
-      "camera": "Camera đơn 12MP góc rộng, Portrait mode, Smart HDR",
-      "body": "Khung nhôm, mặt lưng kính",
-      "port": "Lightning • sạc không dây Qi",
-      "protection": "IP67",
+      "visible": true,
+      "note": "",
       "highlight": "Face ID, nhiều màu, pin tốt trong thế hệ 2018",
-      "images": []
+      "images": [],
+      "rows": [
+        {
+          "storage": "64GB",
+          "price_95": "3.500.000đ",
+          "price_99": "4.800.000đ",
+          "price_like_new": "5.500.000đ"
+        },
+        {
+          "storage": "128GB",
+          "price_95": "4.000.000đ",
+          "price_99": "5.500.000đ",
+          "price_like_new": "6.500.000đ"
+        },
+        {
+          "storage": "256GB",
+          "price_95": "4.400.000đ",
+          "price_99": "6.300.000đ",
+          "price_like_new": "7.500.000đ"
+        }
+      ],
+      "protection": "IP67",
+      "in_stock": true,
+      "year": "2018"
     },
     {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "6.5 inch Super Retina HD OLED, 2688 × 1242",
+      "body": "Khung thép không gỉ, mặt lưng kính",
+      "camera": "Camera kép 12MP góc rộng + tele 2x; Smart HDR",
+      "search": "iphone xs max xsm",
       "name": "iPhone XS Max",
       "slug": "iphone-xs-max",
-      "search": "iphone xs max xsm",
+      "chip": "A12 Bionic",
+      "colors": [
+        {
+          "name": "Gold",
+          "hex": "#d2b59b"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e8e7e2"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#4b4b4d"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "Màn hình lớn 6.5 inch, Face ID, Dual SIM",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -199,59 +221,19 @@
           "price_like_new": "9.000.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Gold",
-          "hex": "#d2b59b"
-        },
-        {
-          "name": "Silver",
-          "hex": "#e8e7e2"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "#4b4b4d"
-        }
-      ],
-      "year": "2018",
-      "display": "6.5 inch Super Retina HD OLED, 2688 × 1242",
-      "chip": "A12 Bionic",
-      "camera": "Camera kép 12MP góc rộng + tele 2x; Smart HDR",
-      "body": "Khung thép không gỉ, mặt lưng kính",
-      "port": "Lightning • sạc không dây Qi",
       "protection": "IP68 (tối đa 2 m / 30 phút)",
-      "highlight": "Màn hình lớn 6.5 inch, Face ID, Dual SIM",
-      "images": []
+      "in_stock": true,
+      "year": "2018"
     },
     {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "6.1 inch Liquid Retina HD LCD, 1792 × 828",
+      "body": "Khung nhôm, mặt lưng kính",
+      "camera": "Camera kép 12MP góc rộng + siêu rộng 120°, Night mode",
+      "search": "iphone 11",
       "name": "iPhone 11",
       "slug": "iphone-11",
-      "search": "iphone 11",
-      "visible": true,
-      "rows": [
-        {
-          "storage": "64GB",
-          "price_95": "4.900.000đ",
-          "price_99": "6.500.000đ",
-          "price_like_new": "7.300.000đ"
-        },
-        {
-          "storage": "128GB",
-          "price_95": "5.500.000đ",
-          "price_99": "7.300.000đ",
-          "price_like_new": "7.900.000đ"
-        },
-        {
-          "storage": "256GB",
-          "price_95": "6.000.000đ",
-          "price_99": "8.000.000đ",
-          "price_like_new": "8.500.000đ"
-        }
-      ],
-      "in_stock": true,
-      "note": "",
+      "chip": "A13 Bionic",
       "colors": [
         {
           "name": "Black",
@@ -278,21 +260,65 @@
           "hex": "#efefec"
         }
       ],
-      "year": "2019",
-      "display": "6.1 inch Liquid Retina HD LCD, 1792 × 828",
-      "chip": "A13 Bionic",
-      "camera": "Camera kép 12MP góc rộng + siêu rộng 120°, Night mode",
-      "body": "Khung nhôm, mặt lưng kính",
-      "port": "Lightning • sạc không dây Qi",
-      "protection": "IP68 (tối đa 2 m / 30 phút)",
+      "visible": true,
+      "note": "",
       "highlight": "Night mode, Ultra Wide, camera trước 12MP",
-      "images": []
+      "images": [],
+      "rows": [
+        {
+          "storage": "64GB",
+          "price_95": "4.900.000đ",
+          "price_99": "6.500.000đ",
+          "price_like_new": "7.300.000đ"
+        },
+        {
+          "storage": "128GB",
+          "price_95": "5.500.000đ",
+          "price_99": "7.300.000đ",
+          "price_like_new": "7.900.000đ"
+        },
+        {
+          "storage": "256GB",
+          "price_95": "6.000.000đ",
+          "price_99": "8.000.000đ",
+          "price_like_new": "8.500.000đ"
+        }
+      ],
+      "protection": "IP68 (tối đa 2 m / 30 phút)",
+      "in_stock": true,
+      "year": "2019"
     },
     {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "5.8 inch Super Retina XDR OLED",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "3 camera 12MP: góc rộng + siêu rộng + tele 2x; Night mode",
+      "search": "iphone 11 pro",
       "name": "iPhone 11 Pro",
       "slug": "iphone-11-pro",
-      "search": "iphone 11 pro",
+      "chip": "A13 Bionic",
+      "colors": [
+        {
+          "name": "Gold",
+          "hex": "#c9ad8e"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e4e2dd"
+        },
+        {
+          "name": "Space Gray",
+          "hex": "#4a4b4c"
+        },
+        {
+          "name": "Midnight Green",
+          "hex": "#4f5b52"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "Màn hình XDR, hệ camera Pro 3 ống kính",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -319,8 +345,19 @@
           "price_like_new": "9.900.000đ"
         }
       ],
+      "protection": "IP68 (tối đa 4 m / 30 phút)",
       "in_stock": true,
-      "note": "",
+      "year": "2019"
+    },
+    {
+      "port": "Lightning • sạc không dây Qi",
+      "display": "6.5 inch Super Retina XDR OLED",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "3 camera 12MP: góc rộng + siêu rộng + tele 2x; Night mode",
+      "search": "iphone 11 pro max 11 prm",
+      "name": "iPhone 11 Pro Max",
+      "slug": "iphone-11-pro-max",
+      "chip": "A13 Bionic",
       "colors": [
         {
           "name": "Gold",
@@ -339,21 +376,10 @@
           "hex": "#4f5b52"
         }
       ],
-      "year": "2019",
-      "display": "5.8 inch Super Retina XDR OLED",
-      "chip": "A13 Bionic",
-      "camera": "3 camera 12MP: góc rộng + siêu rộng + tele 2x; Night mode",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • sạc không dây Qi",
-      "protection": "IP68 (tối đa 4 m / 30 phút)",
-      "highlight": "Màn hình XDR, hệ camera Pro 3 ống kính",
-      "images": []
-    },
-    {
-      "name": "iPhone 11 Pro Max",
-      "slug": "iphone-11-pro-max",
-      "search": "iphone 11 pro max 11 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Màn hình 6.5 inch, pin tốt, camera Pro 3 ống kính",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -380,63 +406,19 @@
           "price_like_new": "10.700.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Gold",
-          "hex": "#c9ad8e"
-        },
-        {
-          "name": "Silver",
-          "hex": "#e4e2dd"
-        },
-        {
-          "name": "Space Gray",
-          "hex": "#4a4b4c"
-        },
-        {
-          "name": "Midnight Green",
-          "hex": "#4f5b52"
-        }
-      ],
-      "year": "2019",
-      "display": "6.5 inch Super Retina XDR OLED",
-      "chip": "A13 Bionic",
-      "camera": "3 camera 12MP: góc rộng + siêu rộng + tele 2x; Night mode",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • sạc không dây Qi",
       "protection": "IP68 (tối đa 4 m / 30 phút)",
-      "highlight": "Màn hình 6.5 inch, pin tốt, camera Pro 3 ống kính",
-      "images": []
+      "in_stock": true,
+      "year": "2019"
     },
     {
+      "port": "Lightning • MagSafe 15W • 5G",
+      "display": "6.1 inch Super Retina XDR OLED, 2532 × 1170",
+      "body": "Khung nhôm, Ceramic Shield mặt trước",
+      "camera": "Camera kép 12MP góc rộng + siêu rộng; Night mode cả Ultra Wide",
+      "search": "iphone 12",
       "name": "iPhone 12",
       "slug": "iphone-12",
-      "search": "iphone 12",
-      "visible": true,
-      "rows": [
-        {
-          "storage": "64GB",
-          "price_95": "5.700.000đ",
-          "price_99": "7.500.000đ",
-          "price_like_new": "8.000.000đ"
-        },
-        {
-          "storage": "128GB",
-          "price_95": "6.300.000đ",
-          "price_99": "8.000.000đ",
-          "price_like_new": "8.500.000đ"
-        },
-        {
-          "storage": "256GB",
-          "price_95": "7.300.000đ",
-          "price_99": "9.000.000đ",
-          "price_like_new": "9.500.000đ"
-        }
-      ],
-      "in_stock": true,
-      "note": "",
+      "chip": "A14 Bionic",
       "colors": [
         {
           "name": "Black",
@@ -463,21 +445,65 @@
           "hex": "#b7a6ce"
         }
       ],
-      "year": "2020",
-      "display": "6.1 inch Super Retina XDR OLED, 2532 × 1170",
-      "chip": "A14 Bionic",
-      "camera": "Camera kép 12MP góc rộng + siêu rộng; Night mode cả Ultra Wide",
-      "body": "Khung nhôm, Ceramic Shield mặt trước",
-      "port": "Lightning • MagSafe 15W • 5G",
-      "protection": "IP68 (tối đa 6 m / 30 phút)",
+      "visible": true,
+      "note": "",
       "highlight": "Thiết kế cạnh phẳng, OLED, 5G, MagSafe",
-      "images": []
+      "images": [],
+      "rows": [
+        {
+          "storage": "64GB",
+          "price_95": "5.700.000đ",
+          "price_99": "7.500.000đ",
+          "price_like_new": "8.000.000đ"
+        },
+        {
+          "storage": "128GB",
+          "price_95": "6.300.000đ",
+          "price_99": "8.000.000đ",
+          "price_like_new": "8.500.000đ"
+        },
+        {
+          "storage": "256GB",
+          "price_95": "7.300.000đ",
+          "price_99": "9.000.000đ",
+          "price_like_new": "9.500.000đ"
+        }
+      ],
+      "protection": "IP68 (tối đa 6 m / 30 phút)",
+      "in_stock": true,
+      "year": "2020"
     },
     {
+      "port": "Lightning • MagSafe 15W • 5G",
+      "display": "6.1 inch Super Retina XDR OLED",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "3 camera 12MP + LiDAR; tele 2x, Apple ProRAW",
+      "search": "iphone 12 pro",
       "name": "iPhone 12 Pro",
       "slug": "iphone-12-pro",
-      "search": "iphone 12 pro",
+      "chip": "A14 Bionic",
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#dddcd8"
+        },
+        {
+          "name": "Graphite",
+          "hex": "#55565a"
+        },
+        {
+          "name": "Gold",
+          "hex": "#c7a97d"
+        },
+        {
+          "name": "Pacific Blue",
+          "hex": "#5b7180"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "LiDAR, ProRAW, khung thép cao cấp",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -504,8 +530,19 @@
           "price_like_new": "12.200.000đ"
         }
       ],
+      "protection": "IP68 (tối đa 6 m / 30 phút)",
       "in_stock": true,
-      "note": "",
+      "year": "2020"
+    },
+    {
+      "port": "Lightning • MagSafe 15W • 5G",
+      "display": "6.7 inch Super Retina XDR OLED",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "3 camera 12MP + LiDAR; tele 2.5x, chống rung sensor‑shift",
+      "search": "iphone 12 pro max 12 prm",
+      "name": "iPhone 12 Pro Max",
+      "slug": "iphone-12-pro-max",
+      "chip": "A14 Bionic",
       "colors": [
         {
           "name": "Silver",
@@ -524,21 +561,10 @@
           "hex": "#5b7180"
         }
       ],
-      "year": "2020",
-      "display": "6.1 inch Super Retina XDR OLED",
-      "chip": "A14 Bionic",
-      "camera": "3 camera 12MP + LiDAR; tele 2x, Apple ProRAW",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • MagSafe 15W • 5G",
-      "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "LiDAR, ProRAW, khung thép cao cấp",
-      "images": []
-    },
-    {
-      "name": "iPhone 12 Pro Max",
-      "slug": "iphone-12-pro-max",
-      "search": "iphone 12 pro max 12 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Màn hình 6.7 inch, sensor‑shift OIS, tele 2.5x",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -565,69 +591,19 @@
           "price_like_new": "14.200.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "#dddcd8"
-        },
-        {
-          "name": "Graphite",
-          "hex": "#55565a"
-        },
-        {
-          "name": "Gold",
-          "hex": "#c7a97d"
-        },
-        {
-          "name": "Pacific Blue",
-          "hex": "#5b7180"
-        }
-      ],
-      "year": "2020",
-      "display": "6.7 inch Super Retina XDR OLED",
-      "chip": "A14 Bionic",
-      "camera": "3 camera 12MP + LiDAR; tele 2.5x, chống rung sensor‑shift",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • MagSafe 15W • 5G",
       "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "Màn hình 6.7 inch, sensor‑shift OIS, tele 2.5x",
-      "images": []
+      "in_stock": true,
+      "year": "2020"
     },
     {
+      "port": "Lightning • MagSafe 15W • 5G",
+      "display": "6.1 inch Super Retina XDR OLED",
+      "body": "Khung nhôm, Ceramic Shield",
+      "camera": "Camera kép 12MP đặt chéo; sensor‑shift OIS; Cinematic mode",
+      "search": "iphone 13",
       "name": "iPhone 13",
       "slug": "iphone-13",
-      "search": "iphone 13",
-      "visible": true,
-      "rows": [
-        {
-          "storage": "64GB",
-          "price_95": "-",
-          "price_99": "-",
-          "price_like_new": "-"
-        },
-        {
-          "storage": "128GB",
-          "price_95": "7.400.000đ",
-          "price_99": "9.500.000đ",
-          "price_like_new": "10.000.000đ"
-        },
-        {
-          "storage": "256GB",
-          "price_95": "8.200.000đ",
-          "price_99": "10.200.000đ",
-          "price_like_new": "11.000.000đ"
-        },
-        {
-          "storage": "512GB",
-          "price_95": "9.400.000đ",
-          "price_99": "11.400.000đ",
-          "price_like_new": "12.200.000đ"
-        }
-      ],
-      "in_stock": true,
-      "note": "",
+      "chip": "A15 Bionic",
       "colors": [
         {
           "name": "Pink",
@@ -654,21 +630,75 @@
           "hex": "#4d7563"
         }
       ],
-      "year": "2021",
-      "display": "6.1 inch Super Retina XDR OLED",
-      "chip": "A15 Bionic",
-      "camera": "Camera kép 12MP đặt chéo; sensor‑shift OIS; Cinematic mode",
-      "body": "Khung nhôm, Ceramic Shield",
-      "port": "Lightning • MagSafe 15W • 5G",
-      "protection": "IP68 (tối đa 6 m / 30 phút)",
+      "visible": true,
+      "note": "",
       "highlight": "A15 Bionic, camera chéo, Cinematic mode",
-      "images": []
+      "images": [],
+      "rows": [
+        {
+          "storage": "64GB",
+          "price_95": "-",
+          "price_99": "-",
+          "price_like_new": "-"
+        },
+        {
+          "storage": "128GB",
+          "price_95": "7.400.000đ",
+          "price_99": "9.500.000đ",
+          "price_like_new": "10.000.000đ"
+        },
+        {
+          "storage": "256GB",
+          "price_95": "8.200.000đ",
+          "price_99": "10.200.000đ",
+          "price_like_new": "11.000.000đ"
+        },
+        {
+          "storage": "512GB",
+          "price_95": "9.400.000đ",
+          "price_99": "11.400.000đ",
+          "price_like_new": "12.200.000đ"
+        }
+      ],
+      "protection": "IP68 (tối đa 6 m / 30 phút)",
+      "in_stock": true,
+      "year": "2021"
     },
     {
+      "port": "Lightning • MagSafe 15W • 5G",
+      "display": "6.1 inch Super Retina XDR OLED ProMotion 120Hz",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "3 camera 12MP + LiDAR; tele 3x; macro; ProRAW/ProRes",
+      "search": "iphone 13 pro",
       "name": "iPhone 13 Pro",
       "slug": "iphone-13-pro",
-      "search": "iphone 13 pro",
+      "chip": "A15 Bionic (GPU 5 lõi)",
+      "colors": [
+        {
+          "name": "Graphite",
+          "hex": "#55565a"
+        },
+        {
+          "name": "Gold",
+          "hex": "#c7a97d"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e4e2dd"
+        },
+        {
+          "name": "Sierra Blue",
+          "hex": "#8fa6b7"
+        },
+        {
+          "name": "Alpine Green",
+          "hex": "#57695c"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "ProMotion 120Hz, macro, tele 3x",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -701,8 +731,19 @@
           "price_like_new": "15.400.000đ"
         }
       ],
+      "protection": "IP68 (tối đa 6 m / 30 phút)",
       "in_stock": true,
-      "note": "",
+      "year": "2021"
+    },
+    {
+      "port": "Lightning • MagSafe 15W • 5G",
+      "display": "6.7 inch Super Retina XDR OLED ProMotion 120Hz",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "3 camera 12MP + LiDAR; tele 3x; macro; ProRAW/ProRes",
+      "search": "iphone 13 pro max 13 prm",
+      "name": "iPhone 13 Pro Max",
+      "slug": "iphone-13-pro-max",
+      "chip": "A15 Bionic (GPU 5 lõi)",
       "colors": [
         {
           "name": "Graphite",
@@ -725,21 +766,10 @@
           "hex": "#57695c"
         }
       ],
-      "year": "2021",
-      "display": "6.1 inch Super Retina XDR OLED ProMotion 120Hz",
-      "chip": "A15 Bionic (GPU 5 lõi)",
-      "camera": "3 camera 12MP + LiDAR; tele 3x; macro; ProRAW/ProRes",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • MagSafe 15W • 5G",
-      "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "ProMotion 120Hz, macro, tele 3x",
-      "images": []
-    },
-    {
-      "name": "iPhone 13 Pro Max",
-      "slug": "iphone-13-pro-max",
-      "search": "iphone 13 pro max 13 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Màn 6.7 inch 120Hz, pin tốt, camera Pro",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -772,45 +802,49 @@
           "price_like_new": "15.900.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Graphite",
-          "hex": "#55565a"
-        },
-        {
-          "name": "Gold",
-          "hex": "#c7a97d"
-        },
-        {
-          "name": "Silver",
-          "hex": "#e4e2dd"
-        },
-        {
-          "name": "Sierra Blue",
-          "hex": "#8fa6b7"
-        },
-        {
-          "name": "Alpine Green",
-          "hex": "#57695c"
-        }
-      ],
-      "year": "2021",
-      "display": "6.7 inch Super Retina XDR OLED ProMotion 120Hz",
-      "chip": "A15 Bionic (GPU 5 lõi)",
-      "camera": "3 camera 12MP + LiDAR; tele 3x; macro; ProRAW/ProRes",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • MagSafe 15W • 5G",
       "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "Màn 6.7 inch 120Hz, pin tốt, camera Pro",
-      "images": []
+      "in_stock": true,
+      "year": "2021"
     },
     {
+      "port": "Lightning • MagSafe • 5G",
+      "display": "6.1 inch Super Retina XDR OLED",
+      "body": "Khung nhôm, Ceramic Shield",
+      "camera": "Camera kép 12MP; Photonic Engine; Cinematic 4K; Action mode",
+      "search": "iphone 14",
       "name": "iPhone 14",
       "slug": "iphone-14",
-      "search": "iphone 14",
+      "chip": "A15 Bionic (GPU 5 lõi)",
+      "colors": [
+        {
+          "name": "Midnight",
+          "hex": "#25282d"
+        },
+        {
+          "name": "Purple",
+          "hex": "#b7add1"
+        },
+        {
+          "name": "Starlight",
+          "hex": "#f0e7d8"
+        },
+        {
+          "name": "(PRODUCT)RED",
+          "hex": "#b51f2a"
+        },
+        {
+          "name": "Blue",
+          "hex": "#9fb9ca"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#f0d76a"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "Crash Detection, Emergency SOS vệ tinh ở thị trường hỗ trợ",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -837,8 +871,19 @@
           "price_like_new": "14.100.000đ"
         }
       ],
+      "protection": "IP68 (tối đa 6 m / 30 phút)",
       "in_stock": true,
-      "note": "",
+      "year": "2022"
+    },
+    {
+      "port": "Lightning • MagSafe • 5G",
+      "display": "6.7 inch Super Retina XDR OLED",
+      "body": "Khung nhôm, Ceramic Shield",
+      "camera": "Camera kép 12MP; Photonic Engine; Cinematic 4K; Action mode",
+      "search": "iphone 14 plus",
+      "name": "iPhone 14 Plus",
+      "slug": "iphone-14-plus",
+      "chip": "A15 Bionic (GPU 5 lõi)",
       "colors": [
         {
           "name": "Midnight",
@@ -865,21 +910,10 @@
           "hex": "#f0d76a"
         }
       ],
-      "year": "2022",
-      "display": "6.1 inch Super Retina XDR OLED",
-      "chip": "A15 Bionic (GPU 5 lõi)",
-      "camera": "Camera kép 12MP; Photonic Engine; Cinematic 4K; Action mode",
-      "body": "Khung nhôm, Ceramic Shield",
-      "port": "Lightning • MagSafe • 5G",
-      "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "Crash Detection, Emergency SOS vệ tinh ở thị trường hỗ trợ",
-      "images": []
-    },
-    {
-      "name": "iPhone 14 Plus",
-      "slug": "iphone-14-plus",
-      "search": "iphone 14 plus",
       "visible": true,
+      "note": "",
+      "highlight": "Màn hình lớn 6.7 inch và thời lượng pin tốt",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -906,49 +940,41 @@
           "price_like_new": "14.700.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Midnight",
-          "hex": "#25282d"
-        },
-        {
-          "name": "Purple",
-          "hex": "#b7add1"
-        },
-        {
-          "name": "Starlight",
-          "hex": "#f0e7d8"
-        },
-        {
-          "name": "(PRODUCT)RED",
-          "hex": "#b51f2a"
-        },
-        {
-          "name": "Blue",
-          "hex": "#9fb9ca"
-        },
-        {
-          "name": "Yellow",
-          "hex": "#f0d76a"
-        }
-      ],
-      "year": "2022",
-      "display": "6.7 inch Super Retina XDR OLED",
-      "chip": "A15 Bionic (GPU 5 lõi)",
-      "camera": "Camera kép 12MP; Photonic Engine; Cinematic 4K; Action mode",
-      "body": "Khung nhôm, Ceramic Shield",
-      "port": "Lightning • MagSafe • 5G",
       "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "Màn hình lớn 6.7 inch và thời lượng pin tốt",
-      "images": []
+      "in_stock": true,
+      "year": "2022"
     },
     {
+      "port": "Lightning • MagSafe • 5G",
+      "display": "6.1 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, Dynamic Island",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele 3x + LiDAR",
+      "search": "iphone 14 pro",
       "name": "iPhone 14 Pro",
       "slug": "iphone-14-pro",
-      "search": "iphone 14 pro",
+      "chip": "A16 Bionic",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#3a3a3c"
+        },
+        {
+          "name": "Silver",
+          "hex": "#e5e4e0"
+        },
+        {
+          "name": "Gold",
+          "hex": "#c7a97d"
+        },
+        {
+          "name": "Deep Purple",
+          "hex": "#5b5264"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "Dynamic Island, màn hình Always‑On, camera chính 48MP",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -981,8 +1007,19 @@
           "price_like_new": "17.900.000đ"
         }
       ],
+      "protection": "IP68 (tối đa 6 m / 30 phút)",
       "in_stock": true,
-      "note": "",
+      "year": "2022"
+    },
+    {
+      "port": "Lightning • MagSafe • 5G",
+      "display": "6.7 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, Dynamic Island",
+      "body": "Khung thép không gỉ, kính mờ",
+      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele 3x + LiDAR",
+      "search": "iphone 14 pro max 14 prm",
+      "name": "iPhone 14 Pro Max",
+      "slug": "iphone-14-pro-max",
+      "chip": "A16 Bionic",
       "colors": [
         {
           "name": "Space Black",
@@ -1001,21 +1038,10 @@
           "hex": "#5b5264"
         }
       ],
-      "year": "2022",
-      "display": "6.1 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, Dynamic Island",
-      "chip": "A16 Bionic",
-      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele 3x + LiDAR",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • MagSafe • 5G",
-      "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "Dynamic Island, màn hình Always‑On, camera chính 48MP",
-      "images": []
-    },
-    {
-      "name": "iPhone 14 Pro Max",
-      "slug": "iphone-14-pro-max",
-      "search": "iphone 14 pro max 14 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Dynamic Island, màn 6.7 inch, camera chính 48MP",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1048,41 +1074,45 @@
           "price_like_new": "21.300.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Space Black",
-          "hex": "#3a3a3c"
-        },
-        {
-          "name": "Silver",
-          "hex": "#e5e4e0"
-        },
-        {
-          "name": "Gold",
-          "hex": "#c7a97d"
-        },
-        {
-          "name": "Deep Purple",
-          "hex": "#5b5264"
-        }
-      ],
-      "year": "2022",
-      "display": "6.7 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, Dynamic Island",
-      "chip": "A16 Bionic",
-      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele 3x + LiDAR",
-      "body": "Khung thép không gỉ, kính mờ",
-      "port": "Lightning • MagSafe • 5G",
       "protection": "IP68 (tối đa 6 m / 30 phút)",
-      "highlight": "Dynamic Island, màn 6.7 inch, camera chính 48MP",
-      "images": []
+      "in_stock": true,
+      "year": "2022"
     },
     {
+      "port": "USB‑C (USB 2) • MagSafe • 5G",
+      "display": "6.1 inch Super Retina XDR OLED, Dynamic Island",
+      "body": "Khung nhôm, kính màu xuyên vật liệu",
+      "camera": "48MP Main + 12MP Ultra Wide; zoom quang học chất lượng 2x từ cảm biến chính",
+      "search": "iphone 15",
       "name": "iPhone 15",
       "slug": "iphone-15",
-      "search": "iphone 15",
+      "chip": "A16 Bionic",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#3c4042"
+        },
+        {
+          "name": "Blue",
+          "hex": "#c6d8e4"
+        },
+        {
+          "name": "Green",
+          "hex": "#c4d7c1"
+        },
+        {
+          "name": "Yellow",
+          "hex": "#e9e2a9"
+        },
+        {
+          "name": "Pink",
+          "hex": "#e7bec4"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "USB‑C, Dynamic Island, camera chính 48MP",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1109,8 +1139,19 @@
           "price_like_new": "16.900.000đ"
         }
       ],
+      "protection": "IP68",
       "in_stock": true,
-      "note": "",
+      "year": "2023"
+    },
+    {
+      "port": "USB‑C (USB 2) • MagSafe • 5G",
+      "display": "6.7 inch Super Retina XDR OLED, Dynamic Island",
+      "body": "Khung nhôm, kính màu xuyên vật liệu",
+      "camera": "48MP Main + 12MP Ultra Wide; zoom quang học chất lượng 2x",
+      "search": "iphone 15 plus",
+      "name": "iPhone 15 Plus",
+      "slug": "iphone-15-plus",
+      "chip": "A16 Bionic",
       "colors": [
         {
           "name": "Black",
@@ -1133,21 +1174,10 @@
           "hex": "#e7bec4"
         }
       ],
-      "year": "2023",
-      "display": "6.1 inch Super Retina XDR OLED, Dynamic Island",
-      "chip": "A16 Bionic",
-      "camera": "48MP Main + 12MP Ultra Wide; zoom quang học chất lượng 2x từ cảm biến chính",
-      "body": "Khung nhôm, kính màu xuyên vật liệu",
-      "port": "USB‑C (USB 2) • MagSafe • 5G",
-      "protection": "IP68",
-      "highlight": "USB‑C, Dynamic Island, camera chính 48MP",
-      "images": []
-    },
-    {
-      "name": "iPhone 15 Plus",
-      "slug": "iphone-15-plus",
-      "search": "iphone 15 plus",
       "visible": true,
+      "note": "",
+      "highlight": "Màn 6.7 inch, USB‑C, camera 48MP",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1174,45 +1204,41 @@
           "price_like_new": "18.700.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "#3c4042"
-        },
-        {
-          "name": "Blue",
-          "hex": "#c6d8e4"
-        },
-        {
-          "name": "Green",
-          "hex": "#c4d7c1"
-        },
-        {
-          "name": "Yellow",
-          "hex": "#e9e2a9"
-        },
-        {
-          "name": "Pink",
-          "hex": "#e7bec4"
-        }
-      ],
-      "year": "2023",
-      "display": "6.7 inch Super Retina XDR OLED, Dynamic Island",
-      "chip": "A16 Bionic",
-      "camera": "48MP Main + 12MP Ultra Wide; zoom quang học chất lượng 2x",
-      "body": "Khung nhôm, kính màu xuyên vật liệu",
-      "port": "USB‑C (USB 2) • MagSafe • 5G",
       "protection": "IP68",
-      "highlight": "Màn 6.7 inch, USB‑C, camera 48MP",
-      "images": []
+      "in_stock": true,
+      "year": "2023"
     },
     {
+      "port": "USB‑C USB 3 • MagSafe • Action button",
+      "display": "6.1 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
+      "body": "Khung titanium, kính mờ",
+      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele 3x + LiDAR",
+      "search": "iphone 15 pro",
       "name": "iPhone 15 Pro",
       "slug": "iphone-15-pro",
-      "search": "iphone 15 pro",
+      "chip": "A17 Pro",
+      "colors": [
+        {
+          "name": "Black Titanium",
+          "hex": "#3e3d3b"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#e3e0da"
+        },
+        {
+          "name": "Blue Titanium",
+          "hex": "#4f6270"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#8c877f"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "A17 Pro, titanium, Action button, Apple Intelligence",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1245,8 +1271,19 @@
           "price_like_new": "21.100.000đ"
         }
       ],
+      "protection": "IP68",
       "in_stock": true,
-      "note": "",
+      "year": "2023"
+    },
+    {
+      "port": "USB‑C USB 3 • MagSafe • Action button",
+      "display": "6.7 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
+      "body": "Khung titanium, kính mờ",
+      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele tetraprism 5x + LiDAR",
+      "search": "iphone 15 pro max 15 prm",
+      "name": "iPhone 15 Pro Max",
+      "slug": "iphone-15-pro-max",
+      "chip": "A17 Pro",
       "colors": [
         {
           "name": "Black Titanium",
@@ -1265,21 +1302,10 @@
           "hex": "#8c877f"
         }
       ],
-      "year": "2023",
-      "display": "6.1 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
-      "chip": "A17 Pro",
-      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele 3x + LiDAR",
-      "body": "Khung titanium, kính mờ",
-      "port": "USB‑C USB 3 • MagSafe • Action button",
-      "protection": "IP68",
-      "highlight": "A17 Pro, titanium, Action button, Apple Intelligence",
-      "images": []
-    },
-    {
-      "name": "iPhone 15 Pro Max",
-      "slug": "iphone-15-pro-max",
-      "search": "iphone 15 pro max 15 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Tele 5x, titanium, A17 Pro, Apple Intelligence",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1312,41 +1338,45 @@
           "price_like_new": "24.400.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Black Titanium",
-          "hex": "#3e3d3b"
-        },
-        {
-          "name": "White Titanium",
-          "hex": "#e3e0da"
-        },
-        {
-          "name": "Blue Titanium",
-          "hex": "#4f6270"
-        },
-        {
-          "name": "Natural Titanium",
-          "hex": "#8c877f"
-        }
-      ],
-      "year": "2023",
-      "display": "6.7 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
-      "chip": "A17 Pro",
-      "camera": "48MP Main + 12MP Ultra Wide + 12MP tele tetraprism 5x + LiDAR",
-      "body": "Khung titanium, kính mờ",
-      "port": "USB‑C USB 3 • MagSafe • Action button",
       "protection": "IP68",
-      "highlight": "Tele 5x, titanium, A17 Pro, Apple Intelligence",
-      "images": []
+      "in_stock": true,
+      "year": "2023"
     },
     {
+      "port": "USB‑C • MagSafe • Action button • Camera Control",
+      "display": "6.1 inch Super Retina XDR OLED, Dynamic Island",
+      "body": "Khung nhôm, kính màu",
+      "camera": "48MP Fusion Main + 12MP Ultra Wide; macro; 2x optical‑quality",
+      "search": "iphone 16",
       "name": "iPhone 16",
       "slug": "iphone-16",
-      "search": "iphone 16",
+      "chip": "A18",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#2d2f31"
+        },
+        {
+          "name": "White",
+          "hex": "#f1f1ee"
+        },
+        {
+          "name": "Pink",
+          "hex": "#d77aa9"
+        },
+        {
+          "name": "Teal",
+          "hex": "#5c8e8a"
+        },
+        {
+          "name": "Ultramarine",
+          "hex": "#4769a8"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "A18, Camera Control, Apple Intelligence",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1373,8 +1403,19 @@
           "price_like_new": "20.100.000đ"
         }
       ],
+      "protection": "IP68",
       "in_stock": true,
-      "note": "",
+      "year": "2024"
+    },
+    {
+      "port": "USB‑C • MagSafe • Action button • Camera Control",
+      "display": "6.7 inch Super Retina XDR OLED, Dynamic Island",
+      "body": "Khung nhôm, kính màu",
+      "camera": "48MP Fusion Main + 12MP Ultra Wide; macro; 2x optical‑quality",
+      "search": "iphone 16 plus",
+      "name": "iPhone 16 Plus",
+      "slug": "iphone-16-plus",
+      "chip": "A18",
       "colors": [
         {
           "name": "Black",
@@ -1397,21 +1438,10 @@
           "hex": "#4769a8"
         }
       ],
-      "year": "2024",
-      "display": "6.1 inch Super Retina XDR OLED, Dynamic Island",
-      "chip": "A18",
-      "camera": "48MP Fusion Main + 12MP Ultra Wide; macro; 2x optical‑quality",
-      "body": "Khung nhôm, kính màu",
-      "port": "USB‑C • MagSafe • Action button • Camera Control",
-      "protection": "IP68",
-      "highlight": "A18, Camera Control, Apple Intelligence",
-      "images": []
-    },
-    {
-      "name": "iPhone 16 Plus",
-      "slug": "iphone-16-plus",
-      "search": "iphone 16 plus",
       "visible": true,
+      "note": "",
+      "highlight": "Màn lớn 6.7 inch, A18, Camera Control, Apple Intelligence",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1438,45 +1468,41 @@
           "price_like_new": "22.100.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "#2d2f31"
-        },
-        {
-          "name": "White",
-          "hex": "#f1f1ee"
-        },
-        {
-          "name": "Pink",
-          "hex": "#d77aa9"
-        },
-        {
-          "name": "Teal",
-          "hex": "#5c8e8a"
-        },
-        {
-          "name": "Ultramarine",
-          "hex": "#4769a8"
-        }
-      ],
-      "year": "2024",
-      "display": "6.7 inch Super Retina XDR OLED, Dynamic Island",
-      "chip": "A18",
-      "camera": "48MP Fusion Main + 12MP Ultra Wide; macro; 2x optical‑quality",
-      "body": "Khung nhôm, kính màu",
-      "port": "USB‑C • MagSafe • Action button • Camera Control",
       "protection": "IP68",
-      "highlight": "Màn lớn 6.7 inch, A18, Camera Control, Apple Intelligence",
-      "images": []
+      "in_stock": true,
+      "year": "2024"
     },
     {
+      "port": "USB‑C USB 3 • Action button • Camera Control • MagSafe",
+      "display": "6.3 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
+      "body": "Khung titanium",
+      "camera": "48MP Fusion Main + 48MP Ultra Wide + 12MP tele 5x + LiDAR",
+      "search": "iphone 16 pro",
       "name": "iPhone 16 Pro",
       "slug": "iphone-16-pro",
-      "search": "iphone 16 pro",
+      "chip": "A18 Pro",
+      "colors": [
+        {
+          "name": "Black Titanium",
+          "hex": "#3c3b39"
+        },
+        {
+          "name": "White Titanium",
+          "hex": "#e6e3dd"
+        },
+        {
+          "name": "Natural Titanium",
+          "hex": "#8c877f"
+        },
+        {
+          "name": "Desert Titanium",
+          "hex": "#c6a487"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "A18 Pro, tele 5x, quay 4K Dolby Vision 120 fps",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1509,8 +1535,19 @@
           "price_like_new": "25.900.000đ"
         }
       ],
+      "protection": "IP68",
       "in_stock": true,
-      "note": "",
+      "year": "2024"
+    },
+    {
+      "port": "USB‑C USB 3 • Action button • Camera Control • MagSafe",
+      "display": "6.9 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
+      "body": "Khung titanium",
+      "camera": "48MP Fusion Main + 48MP Ultra Wide + 12MP tele 5x + LiDAR",
+      "search": "iphone 16 pro max 16 prm",
+      "name": "iPhone 16 Pro Max",
+      "slug": "iphone-16-pro-max",
+      "chip": "A18 Pro",
       "colors": [
         {
           "name": "Black Titanium",
@@ -1529,21 +1566,10 @@
           "hex": "#c6a487"
         }
       ],
-      "year": "2024",
-      "display": "6.3 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
-      "chip": "A18 Pro",
-      "camera": "48MP Fusion Main + 48MP Ultra Wide + 12MP tele 5x + LiDAR",
-      "body": "Khung titanium",
-      "port": "USB‑C USB 3 • Action button • Camera Control • MagSafe",
-      "protection": "IP68",
-      "highlight": "A18 Pro, tele 5x, quay 4K Dolby Vision 120 fps",
-      "images": []
-    },
-    {
-      "name": "iPhone 16 Pro Max",
-      "slug": "iphone-16-pro-max",
-      "search": "iphone 16 pro max 16 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Màn 6.9 inch, A18 Pro, tele 5x, pin lớn",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1567,7 +1593,7 @@
           "storage": "512GB",
           "price_95": "24.700.000đ",
           "price_99": "26.900.000đ",
-          "price_like_new": "27.780.000đ"
+          "price_like_new": "27.700.000đ"
         },
         {
           "storage": "1TB",
@@ -1576,41 +1602,45 @@
           "price_like_new": "28.900.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Black Titanium",
-          "hex": "#3c3b39"
-        },
-        {
-          "name": "White Titanium",
-          "hex": "#e6e3dd"
-        },
-        {
-          "name": "Natural Titanium",
-          "hex": "#8c877f"
-        },
-        {
-          "name": "Desert Titanium",
-          "hex": "#c6a487"
-        }
-      ],
-      "year": "2024",
-      "display": "6.9 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On",
-      "chip": "A18 Pro",
-      "camera": "48MP Fusion Main + 48MP Ultra Wide + 12MP tele 5x + LiDAR",
-      "body": "Khung titanium",
-      "port": "USB‑C USB 3 • Action button • Camera Control • MagSafe",
       "protection": "IP68",
-      "highlight": "Màn 6.9 inch, A18 Pro, tele 5x, pin lớn",
-      "images": []
+      "in_stock": true,
+      "year": "2024"
     },
     {
+      "port": "USB‑C • MagSafe • Action button • Camera Control",
+      "display": "6.3 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, tối đa 3000 nit ngoài trời",
+      "body": "Khung nhôm, Ceramic Shield 2",
+      "camera": "48MP Dual Fusion: Main 48MP + Ultra Wide 48MP; 2x optical‑quality; camera trước 18MP Center Stage",
+      "search": "iphone 17",
       "name": "iPhone 17",
       "slug": "iphone-17",
-      "search": "iphone 17",
+      "chip": "A19",
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#222426"
+        },
+        {
+          "name": "White",
+          "hex": "#f0f0ed"
+        },
+        {
+          "name": "Mist Blue",
+          "hex": "#a9c6d6"
+        },
+        {
+          "name": "Sage",
+          "hex": "#9dae94"
+        },
+        {
+          "name": "Lavender",
+          "hex": "#c1b2cf"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "ProMotion 120Hz trên bản thường, A19, Apple Intelligence",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1637,45 +1667,41 @@
           "price_like_new": "23.700.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Black",
-          "hex": "#222426"
-        },
-        {
-          "name": "White",
-          "hex": "#f0f0ed"
-        },
-        {
-          "name": "Mist Blue",
-          "hex": "#a9c6d6"
-        },
-        {
-          "name": "Sage",
-          "hex": "#9dae94"
-        },
-        {
-          "name": "Lavender",
-          "hex": "#c1b2cf"
-        }
-      ],
-      "year": "2025",
-      "display": "6.3 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, tối đa 3000 nit ngoài trời",
-      "chip": "A19",
-      "camera": "48MP Dual Fusion: Main 48MP + Ultra Wide 48MP; 2x optical‑quality; camera trước 18MP Center Stage",
-      "body": "Khung nhôm, Ceramic Shield 2",
-      "port": "USB‑C • MagSafe • Action button • Camera Control",
       "protection": "IP68",
-      "highlight": "ProMotion 120Hz trên bản thường, A19, Apple Intelligence",
-      "images": []
+      "in_stock": true,
+      "year": "2025"
     },
     {
+      "port": "USB‑C • MagSafe 20W • Camera Control",
+      "display": "6.5 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, tối đa 3000 nit ngoài trời",
+      "body": "Thiết kế titanium mỏng 5.64 mm",
+      "camera": "48MP Fusion Main; 2x optical‑quality; camera trước 18MP Center Stage",
+      "search": "iphone 17 air",
       "name": "iPhone 17 Air",
       "slug": "iphone-17-air",
-      "search": "iphone 17 air",
+      "chip": "A19 Pro (GPU 5 lõi)",
+      "colors": [
+        {
+          "name": "Space Black",
+          "hex": "#27282a"
+        },
+        {
+          "name": "Cloud White",
+          "hex": "#efefec"
+        },
+        {
+          "name": "Light Gold",
+          "hex": "#ddcfad"
+        },
+        {
+          "name": "Sky Blue",
+          "hex": "#aec9dc"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "Thiết kế siêu mỏng, nặng khoảng 165 g, Apple Intelligence",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1708,41 +1734,37 @@
           "price_like_new": "23.200.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Space Black",
-          "hex": "#27282a"
-        },
-        {
-          "name": "Cloud White",
-          "hex": "#efefec"
-        },
-        {
-          "name": "Light Gold",
-          "hex": "#ddcfad"
-        },
-        {
-          "name": "Sky Blue",
-          "hex": "#aec9dc"
-        }
-      ],
-      "year": "2025",
-      "display": "6.5 inch Super Retina XDR OLED, ProMotion 120Hz, Always‑On, tối đa 3000 nit ngoài trời",
-      "chip": "A19 Pro (GPU 5 lõi)",
-      "camera": "48MP Fusion Main; 2x optical‑quality; camera trước 18MP Center Stage",
-      "body": "Thiết kế titanium mỏng 5.64 mm",
-      "port": "USB‑C • MagSafe 20W • Camera Control",
       "protection": "IP68",
-      "highlight": "Thiết kế siêu mỏng, nặng khoảng 165 g, Apple Intelligence",
-      "images": []
+      "in_stock": true,
+      "year": "2025"
     },
     {
+      "port": "USB‑C USB 3 • MagSafe 25W • Camera Control",
+      "display": "6.3 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On, tối đa 3000 nit",
+      "body": "Nhôm nguyên khối, Ceramic Shield 2 trước và Ceramic Shield sau",
+      "camera": "48MP Pro Fusion: Main + Ultra Wide + Tele 4x; hỗ trợ 8x optical‑quality; camera trước 18MP Center Stage",
+      "search": "iphone 17 pro",
       "name": "iPhone 17 Pro",
       "slug": "iphone-17-pro",
-      "search": "iphone 17 pro",
+      "chip": "A19 Pro",
+      "colors": [
+        {
+          "name": "Silver",
+          "hex": "#dadbd9"
+        },
+        {
+          "name": "Cosmic Orange",
+          "hex": "#d77a3a"
+        },
+        {
+          "name": "Deep Blue",
+          "hex": "#263b58"
+        }
+      ],
       "visible": true,
+      "note": "",
+      "highlight": "A19 Pro, 3 camera 48MP, zoom optical‑quality tới 8x",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1775,8 +1797,19 @@
           "price_like_new": "33.900.000đ"
         }
       ],
+      "protection": "IP68",
       "in_stock": true,
-      "note": "",
+      "year": "2025"
+    },
+    {
+      "port": "USB‑C USB 3 • MagSafe 25W • Camera Control",
+      "display": "6.9 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On, tối đa 3000 nit",
+      "body": "Nhôm nguyên khối, Ceramic Shield 2 trước và Ceramic Shield sau",
+      "camera": "48MP Pro Fusion: Main + Ultra Wide + Tele 4x; hỗ trợ 8x optical‑quality; camera trước 18MP Center Stage",
+      "search": "iphone 17 pro max 17 prm",
+      "name": "iPhone 17 Pro Max",
+      "slug": "iphone-17-pro-max",
+      "chip": "A19 Pro",
       "colors": [
         {
           "name": "Silver",
@@ -1791,21 +1824,10 @@
           "hex": "#263b58"
         }
       ],
-      "year": "2025",
-      "display": "6.3 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On, tối đa 3000 nit",
-      "chip": "A19 Pro",
-      "camera": "48MP Pro Fusion: Main + Ultra Wide + Tele 4x; hỗ trợ 8x optical‑quality; camera trước 18MP Center Stage",
-      "body": "Nhôm nguyên khối, Ceramic Shield 2 trước và Ceramic Shield sau",
-      "port": "USB‑C USB 3 • MagSafe 25W • Camera Control",
-      "protection": "IP68",
-      "highlight": "A19 Pro, 3 camera 48MP, zoom optical‑quality tới 8x",
-      "images": []
-    },
-    {
-      "name": "iPhone 17 Pro Max",
-      "slug": "iphone-17-pro-max",
-      "search": "iphone 17 pro max 17 prm",
       "visible": true,
+      "note": "",
+      "highlight": "Màn 6.9 inch, A19 Pro, zoom optical‑quality tới 8x, pin lớn",
+      "images": [],
       "rows": [
         {
           "storage": "64GB",
@@ -1844,31 +1866,9 @@
           "price_like_new": "60.200.000đ"
         }
       ],
-      "in_stock": true,
-      "note": "",
-      "colors": [
-        {
-          "name": "Silver",
-          "hex": "#dadbd9"
-        },
-        {
-          "name": "Cosmic Orange",
-          "hex": "#d77a3a"
-        },
-        {
-          "name": "Deep Blue",
-          "hex": "#263b58"
-        }
-      ],
-      "year": "2025",
-      "display": "6.9 inch Super Retina XDR OLED ProMotion 120Hz, Always‑On, tối đa 3000 nit",
-      "chip": "A19 Pro",
-      "camera": "48MP Pro Fusion: Main + Ultra Wide + Tele 4x; hỗ trợ 8x optical‑quality; camera trước 18MP Center Stage",
-      "body": "Nhôm nguyên khối, Ceramic Shield 2 trước và Ceramic Shield sau",
-      "port": "USB‑C USB 3 • MagSafe 25W • Camera Control",
       "protection": "IP68",
-      "highlight": "Màn 6.9 inch, A19 Pro, zoom optical‑quality tới 8x, pin lớn",
-      "images": []
+      "in_stock": true,
+      "year": "2025"
     }
   ]
 }
