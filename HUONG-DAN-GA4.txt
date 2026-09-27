@@ -1,0 +1,12 @@
+HV MOBILE - PATCH GOOGLE ANALYTICS 4
+
+Ma GA4: G-R7V5ME4MPR
+
+Cach dung:
+1. Giai nen file ZIP nay.
+2. Copy tat ca file/thu muc ben trong vao thu muc code website hien tai.
+3. Chon Replace/Replace the files in the destination khi Windows hoi.
+4. Commit/Push len dung repo GitHub hien tai.
+5. Cloudflare se tu deploy lai.
+
+Patch nay chi gom cac file da duoc them GA4, khong gom anh nen file rat nhe.

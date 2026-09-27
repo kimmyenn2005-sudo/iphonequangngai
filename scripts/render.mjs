@@ -169,6 +169,16 @@ function footer(prefix = "") {
 function documentShell({ title, description, canonical, image = DEFAULT_IMAGE, type = "website", schema, body, prefix = "" }) {
   return `<!doctype html>
 <html lang="vi"><head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-R7V5ME4MPR"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-R7V5ME4MPR');
+</script>
+
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
