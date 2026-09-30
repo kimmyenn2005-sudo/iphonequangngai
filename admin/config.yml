@@ -1,13 +1,17 @@
 backend:
   name: github
-  repo: "kimmyenn2005-sudo/hv-mobile-website"
+  repo: "kimmyenn2005-sudo/iphonequangngai"
   branch: main
   use_graphql: true
+  # Dang nhap qua Worker rieng cua HV Mobile tren Cloudflare.
+  # (Truoc day dung dich vu cua Netlify, da khong con dung nua.)
+  base_url: "https://hv-cms-auth.hvmobile43-vn.workers.dev"
+  auth_endpoint: "auth"
 
 locale: vi
-site_url: "https://hvmobile.netlify.app"
-display_url: "https://hvmobile.netlify.app"
-logo_url: "https://hvmobile.netlify.app/hv-mobile-google-192.png"
+site_url: "https://iphonequangngai.hvmobile43-vn.workers.dev"
+display_url: "https://iphonequangngai.hvmobile43-vn.workers.dev"
+logo_url: "https://iphonequangngai.hvmobile43-vn.workers.dev/hv-mobile-google-192.png"
 publish_mode: simple
 media_folder: "assets/uploads"
 public_folder: "/assets/uploads"

@@ -175,10 +175,8 @@ function documentShell({ title, description, canonical, image = DEFAULT_IMAGE, t
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-R7V5ME4MPR');
 </script>
-
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <title>${escapeHtml(title)}</title>
   <meta name="description" content="${escapeHtml(description)}">
