@@ -12,387 +12,539 @@
 </script>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title>HV Mobile Quảng Ngãi | Địa Chỉ Cửa Hàng iPhone Gần Đây</title>
+<meta content="#141414" name="theme-color"/>
+<title>HV Mobile Quảng Ngãi Có Uy Tín Không? | Giới Thiệu Cửa Hàng</title>
 <style>
-*{box-sizing:border-box}
-html,body{margin:0;padding:0;background:#f6f2e8}
-body,.page,.page *{
-  font-family:Arial,Helvetica,sans-serif!important;
-  font-style:normal!important;
-  letter-spacing:0!important;
-  -webkit-font-smoothing:antialiased;
-}
-body,.page,.page *{font-weight:400}
-h1,h2,h3,strong,b,.btn,.brand,.branch-code,.hours-title,.support-title{font-weight:700!important}
-
-:root{
-  --gold:#d6ad3f;
-  --gold-dark:#9d7619;
-  --black:#111;
-  --paper:#fffdf8;
-  --cream:#f6f2e8;
-  --line:#ddd2c1;
-  --muted:#655f56;
-}
-
-.page{color:#171717}
-.wrap{width:min(1180px,100%);margin:0 auto;padding:0 22px}
-
-.topbar{
-  background:#111;
-  border-bottom:1px solid #2a2a2a;
-}
-.topbar-inner{
-  min-height:48px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:16px;
-}
-.brand{color:var(--gold);font-size:12px}
-.top-note{color:#aaa;font-size:11px}
-
-.hero{
-  background:var(--paper);
-  border-bottom:1px solid var(--line);
-  padding:28px 0 24px;
-}
-.hero-inner{max-width:700px;margin:0 auto;text-align:center}
-.hero .eyebrow{
-  display:inline-block;
-  color:var(--gold-dark);
-  font-size:18px;
-  font-weight:700;
-  margin-bottom:10px;
-}
-.hero p{
-  margin:0 auto;
-  max-width:650px;
-  color:var(--muted);
-  font-size:14px;
-  line-height:1.65;
-}
-
-.branches{
-  background:var(--cream);
-  padding:34px 0 40px;
-}
-.branch-grid{
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:22px;
-}
-.branch-card{
-  background:#fff;
-  border:1px solid #d8cebd;
-  border-radius:20px;
-  overflow:hidden;
-  box-shadow:0 12px 28px rgba(0,0,0,.05);
-}
-.branch-image-wrap{
-  position:relative;
-  aspect-ratio:3/4;
-  background:#f1ede4;
-}
-.branch-image{
-  width:100%;
-  height:100%;
-  object-fit:contain;
-  object-position:center top;
-  display:block;
-}
-.branch-badge{
-  position:absolute;
-  top:14px;
-  left:14px;
-  background:rgba(17,17,17,.92);
-  color:var(--gold);
-  padding:8px 12px;
-  border-radius:999px;
-  font-size:11px;
-}
-.branch-body{padding:22px 22px 22px}
-.branch-top{
-  display:flex;
-  align-items:flex-start;
-  justify-content:space-between;
-  gap:12px;
-  margin-bottom:10px;
-}
-.branch-title-block h2{
-  margin:0 0 6px;
-  font-size:24px;
-  line-height:1.15;
-}
-.branch-code{
-  color:var(--gold-dark);
-  font-size:12px;
-  white-space:nowrap;
-  padding-top:4px;
-}
-.address{
-  margin:0;
-  color:#5e5951;
-  font-size:13.5px;
-  line-height:1.65;
-}
-.info-box{
-  margin-top:18px;
-  padding:14px 16px;
-  border:1px solid #e8decd;
-  border-radius:14px;
-  background:#fbf8f2;
-}
-.hours-title{
-  display:block;
-  margin-bottom:4px;
-  color:#111;
-  font-size:12px;
-}
-.hours-text{
-  color:#655f56;
-  font-size:12.5px;
-  line-height:1.65;
-}
-.service{
-  margin-top:14px;
-  color:#8a8378;
-  font-size:11px;
-  line-height:1.55;
-}
-.actions{
-  margin-top:18px;
-  display:grid;
-  grid-template-columns:1fr 1fr;
-  gap:10px;
-}
-.btn{
-  min-height:46px;
-  display:flex;
-  align-items:center;
-  justify-content:center;
-  padding:11px 14px;
-  border-radius:10px;
-  text-decoration:none!important;
-  font-size:12px;
-  border:1px solid transparent;
-}
-.btn-map{background:var(--gold);color:#111!important}
-.btn-call{background:#fff;color:#111!important;border-color:#cec3b1}
-
-.support{
-  background:#111;
-  color:#fff;
-  padding:24px 0;
-}
-.support-inner{
-  display:grid;
-  grid-template-columns:1fr 1fr 1.2fr;
-  gap:24px;
-  align-items:center;
-}
-.support-item small{
-  display:block;
-  margin-bottom:5px;
-  color:#7f7f7f;
-  font-size:9px;
-}
-.support-item a{
-  color:#fff!important;
-  text-decoration:none;
-  font-size:19px;
-  font-weight:700;
-}
-.support-note{
-  border-left:1px solid #333;
-  padding-left:22px;
-  display:flex;
-  flex-direction:column;
-  align-items:center;
-  justify-content:center;
-  text-align:center;
-}
-.support-title{
-  display:block;
-  margin-bottom:5px;
-  color:var(--gold);
-  font-size:11px;
-}
-.support-note p{
-  margin:0;
-  color:#b6b6b6;
-  font-size:12px;
-  line-height:1.55;
-}
-
-.footer{
-  background:#111;
-  border-top:1px solid #292929;
-  color:#666;
-  padding:12px 0 15px;
-  font-size:10px;
-  text-align:center;
-}
-
-@media(max-width:900px){
-  .branch-grid{grid-template-columns:1fr}
-  .support-inner{grid-template-columns:1fr 1fr}
-  .support-note{
-    grid-column:1/-1;
-    border-left:0;
-    border-top:1px solid #333;
-    padding:14px 0 0;
+  :root{
+    --cream:#FBF4DF;
+    --soft:#FFF8EA;
+    --dark:#141414;
+    --dark2:#0d0d0d;
+    --gold:#B8944B;
+    --accent:#E8C752;
+    --accent-ink:#141414;
+    --line:rgba(0,0,0,.12);
+    --maxw:1180px;
+    --radius:18px;
   }
-}
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:#fff;
+    color:var(--dark);
+    font-family:Arial, Helvetica, sans-serif;
+    -webkit-font-smoothing:antialiased;
+  }
+  h1,h2,h3,.brand{
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0;
+    line-height:1.12;
+    letter-spacing:normal;
+  }
+  a{color:inherit;text-decoration:none;}
+  img{display:block;width:100%;height:100%;object-fit:cover;}
+  .wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px;}
+  .eyebrow{
+    display:inline-flex;align-items:center;gap:8px;
+    font-size:13px;font-weight:700;letter-spacing:.08em;
+    color:var(--gold);text-transform:uppercase;margin-bottom:14px;
+  }
+  .eyebrow svg{width:16px;height:16px;flex:0 0 auto;}
+  .btn{
+    display:inline-flex;align-items:center;justify-content:center;gap:8px;
+    padding:14px 30px;border-radius:50px;font-weight:700;font-size:14px;
+    letter-spacing:.03em;text-transform:uppercase;border:2px solid transparent;
+    cursor:pointer;transition:transform .15s ease, box-shadow .15s ease, background .15s ease, color .15s ease;
+    white-space:nowrap;
+  }
+  .btn:hover{transform:translateY(-2px);}
+  .btn-primary{background:var(--accent);border-color:var(--accent);color:var(--accent-ink);box-shadow:0 10px 24px -10px rgba(232,199,82,.7);}
+  .btn-primary:hover{box-shadow:0 14px 28px -10px rgba(232,199,82,.9);}
+  .btn-outline-light{background:transparent;border-color:#fff;color:#fff;}
+  .btn-outline-light:hover{background:#fff;color:var(--dark);}
+  .btn-outline-dark{background:transparent;border-color:var(--dark);color:var(--dark);}
+  .btn-outline-dark:hover{background:var(--dark);color:#fff;}
+  .btn-outline-cream{background:transparent;border-color:rgba(255,255,255,.55);color:#fff;}
+  .btn-outline-cream:hover{background:#fff;color:var(--dark2);}
 
-@media(max-width:560px){
-  .wrap{padding:0 14px}
-  .top-note{display:none}
-  .hero .eyebrow{font-size:17px}
-  .hero p{font-size:13px}
-  .branch-body{padding:18px 16px 18px}
-  .branch-title-block h2{font-size:21px}
-  .actions{grid-template-columns:1fr}
-  .support-inner{grid-template-columns:1fr}
-  .support-note{grid-column:auto}
+  /* ---------- Header ---------- */
+  header{
+    position:sticky;top:0;z-index:50;background:#fff;
+    border-bottom:1px solid var(--line);
+  }
+  .headbar{display:flex;align-items:center;justify-content:space-between;height:84px;gap:24px;}
+  .brand{display:flex;align-items:center;gap:12px;flex:0 0 auto;}
+  .brand-mark{
+    width:46px;height:46px;border-radius:12px;background:var(--dark);
+    display:flex;align-items:center;justify-content:center;flex:0 0 auto;
+  }
+  .brand-mark svg{width:26px;height:26px;}
+  .brand-text{display:flex;flex-direction:column;line-height:1.05;}
+  .brand-text b{font-size:19px;font-weight:700;letter-spacing:.01em;}
+  .brand-text span{font-size:10.5px;font-weight:700;letter-spacing:.14em;color:var(--gold);}
+  nav{display:flex;align-items:center;gap:30px;flex:1 1 auto;justify-content:center;}
+  nav a{font-size:14.5px;font-weight:700;color:var(--dark);opacity:.82;padding:6px 0;position:relative;}
+  nav a:hover{opacity:1;}
+  nav a::after{content:"";position:absolute;left:0;right:0;bottom:-3px;height:2px;background:var(--accent);transform:scaleX(0);transition:transform .18s ease;}
+  nav a:hover::after{transform:scaleX(1);}
+  .head-cta{flex:0 0 auto;display:flex;align-items:center;gap:10px;}
+  .fanpage-btn{background:var(--accent);color:var(--accent-ink);font-weight:700;font-size:13px;letter-spacing:.05em;
+    padding:11px 22px;border-radius:50px;text-transform:uppercase;box-shadow:0 8px 18px -8px rgba(232,199,82,.8);}
+  .fanpage-btn:hover{transform:translateY(-2px);}
+  .burger{display:none;width:42px;height:42px;border-radius:10px;border:1px solid var(--line);align-items:center;justify-content:center;background:#fff;flex:0 0 auto;}
+  .burger span, .burger span::before, .burger span::after{content:"";display:block;width:18px;height:2px;background:var(--dark);position:relative;transition:.2s;}
+  .burger span::before{position:absolute;top:-6px;}
+  .burger span::after{position:absolute;top:6px;}
+
+  /* ---------- Hero ---------- */
+  .hero{position:relative;color:#fff;overflow:hidden;}
+  .hero-bg{position:absolute;inset:0;}
+  .hero-bg img{width:100%;height:100%;object-fit:cover;}
+  .hero-bg::after{
+    content:"";position:absolute;inset:0;
+    background:linear-gradient(100deg, rgba(10,10,10,.88) 8%, rgba(10,10,10,.64) 42%, rgba(10,10,10,.30) 75%, rgba(10,10,10,.14) 100%);
+  }
+  .hero-inner{position:relative;z-index:2;padding:96px 24px 90px;}
+  .hero .eyebrow{color:var(--accent);font-size:15px;}
+  .hero-points{display:flex;flex-wrap:wrap;gap:12px;margin-top:6px;max-width:660px;}
+  .hero-point{background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.28);color:#fff;
+    font-weight:700;font-size:14px;padding:10px 20px;border-radius:50px;white-space:nowrap;}
+  .hero-btns{display:flex;gap:16px;margin-top:36px;flex-wrap:wrap;}
+
+  /* ---------- Features strip ---------- */
+  .features{background:var(--cream);}
+  .features-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:40px;padding:58px 0;}
+  .feature-icon{
+    width:56px;height:56px;border-radius:50%;background:var(--gold);
+    display:flex;align-items:center;justify-content:center;margin-bottom:18px;
+  }
+  .feature-icon svg{width:24px;height:24px;color:var(--dark2);}
+  .feature h3{font-size:16px;font-weight:700;letter-spacing:.01em;margin-bottom:8px;}
+  .feature p{font-size:14.5px;line-height:1.6;color:#4a4a4a;margin:0;}
+
+  /* ---------- Section base ---------- */
+  section{padding:96px 0;}
+  .section-head{max-width:640px;margin:0 auto 54px;text-align:center;}
+  .section-head h2{font-size:clamp(26px,3.6vw,40px);font-weight:700;}
+  .section-head.left{margin:0 0 54px;text-align:left;}
+
+  /* ---------- About ---------- */
+  .about{background:#fff;}
+  .about-grid{display:grid;grid-template-columns:.85fr 1fr;gap:64px;align-items:center;}
+  .about-collage{position:relative;}
+  .about-img1{border-radius:var(--radius);overflow:hidden;aspect-ratio:1/1;box-shadow:0 30px 60px -30px rgba(0,0,0,.35);}
+  .about-img2{border-radius:14px;overflow:hidden;width:62%;aspect-ratio:16/10;position:absolute;left:-8%;bottom:-11%;box-shadow:0 20px 40px -20px rgba(0,0,0,.4);border:6px solid #fff;}
+  .about-copy h2{font-size:clamp(28px,3.8vw,42px);font-weight:700;margin-bottom:22px;}
+  .about-copy p{font-size:16px;line-height:1.75;color:#3a3a3a;margin:0 0 26px;}
+  .checklist{list-style:none;margin:0 0 30px;padding:0;display:flex;flex-direction:column;gap:14px;}
+  .checklist li{display:flex;align-items:flex-start;gap:12px;font-size:15px;font-weight:600;color:var(--dark);}
+  .checklist svg{width:20px;height:20px;flex:0 0 auto;margin-top:1px;color:var(--gold);}
+
+  /* ---------- Services ---------- */
+  .services{background:var(--cream);}
+  .services-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:26px;}
+  .service-card{background:#fff;border-radius:16px;padding:32px 26px;box-shadow:0 18px 40px -28px rgba(0,0,0,.25);}
+  .service-icon{width:48px;height:48px;border-radius:12px;background:var(--dark);display:flex;align-items:center;justify-content:center;margin-bottom:20px;}
+  .service-icon svg{width:22px;height:22px;color:var(--accent);}
+  .service-card h3{font-size:17px;font-weight:700;margin-bottom:6px;}
+  .service-card .tag{display:block;font-size:12.5px;font-weight:700;color:var(--gold);text-transform:uppercase;letter-spacing:.05em;margin-bottom:8px;}
+  .service-card p{font-size:14px;line-height:1.65;color:#4a4a4a;margin:0;}
+  .services-cta{text-align:center;margin-top:46px;}
+
+  /* ---------- Commitments (dark) ---------- */
+  .commit{background:var(--dark2);color:#f4ecd8;}
+  .commit .section-head h2{color:#fff;}
+  .commit .eyebrow{color:var(--accent);}
+  .commit-grid{display:grid;grid-template-columns:1.05fr .8fr;gap:64px;align-items:center;}
+  .commit-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;}
+  .commit-list li{display:flex;gap:18px;padding:26px 0;border-top:1px solid rgba(244,236,216,.16);}
+  .commit-list li:last-child{border-bottom:1px solid rgba(244,236,216,.16);}
+  .commit-num{width:38px;height:38px;border-radius:50%;border:1.5px solid var(--accent);color:var(--accent);
+    display:flex;align-items:center;justify-content:center;font-weight:700;font-size:14px;flex:0 0 auto;}
+  .commit-list h3{font-size:16.5px;font-weight:700;letter-spacing:.02em;margin-bottom:8px;color:#fff;}
+  .commit-list p{font-size:14.5px;line-height:1.65;color:#d9d0b8;margin:0;}
+  .commit-photo{border-radius:var(--radius);overflow:hidden;aspect-ratio:4/5;box-shadow:0 30px 60px -20px rgba(0,0,0,.5);}
+
+  /* ---------- Gallery ---------- */
+  .gallery{background:#fff;}
+  .gallery-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;}
+  .gallery-grid a{display:block;border-radius:14px;overflow:hidden;aspect-ratio:1/1;position:relative;}
+  .gallery-grid img{transition:transform .35s ease;}
+  .gallery-grid a:hover img{transform:scale(1.08);}
+  .gallery-cta{text-align:center;margin-top:44px;}
+
+  /* ---------- Trust / reviews ---------- */
+  .trust{background:var(--soft);}
+  .trust-card{max-width:760px;margin:0 auto;text-align:center;background:#fff;border-radius:24px;padding:56px 40px;
+    box-shadow:0 24px 60px -34px rgba(0,0,0,.3);}
+  .stars{display:flex;justify-content:center;gap:6px;margin-bottom:22px;}
+  .stars svg{width:22px;height:22px;color:var(--accent);}
+  .trust-card p{font-size:17px;line-height:1.75;color:#3a3a3a;margin:0 0 30px;}
+  .trust-chips{display:flex;justify-content:center;gap:14px;flex-wrap:wrap;margin-top:30px;}
+  .chip{background:var(--cream);color:var(--dark2);font-size:13px;font-weight:700;padding:9px 18px;border-radius:50px;}
+
+  /* ---------- Final CTA ---------- */
+  .cta-final{background:var(--dark);color:#fff;text-align:center;}
+  .cta-final h2{font-size:clamp(26px,3.8vw,40px);font-weight:700;max-width:620px;margin:0 auto 16px;}
+  .cta-final p{font-size:16px;color:#c9c4b5;max-width:520px;margin:0 auto 34px;line-height:1.65;}
+  .cta-final .hero-btns{justify-content:center;}
+
+  /* ---------- Footer ---------- */
+  footer{background:var(--dark2);color:#c9c4b5;padding:64px 0 26px;border-top:3px solid var(--accent);}
+  .foot-grid{display:grid;grid-template-columns:1.4fr 1fr 1fr;gap:40px;padding-bottom:44px;border-bottom:1px solid rgba(255,255,255,.08);}
+  .foot-brand .brand-text b{color:#fff;}
+  .foot-brand p{font-size:14px;line-height:1.7;color:#a8a196;margin:16px 0 0;max-width:300px;}
+  .foot-col h4{font-size:13px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--accent);margin-bottom:18px;}
+  .foot-col ul{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:12px;}
+  .foot-col a{font-size:14px;color:#c9c4b5;}
+  .foot-col a:hover{color:var(--accent);}
+  .foot-social{display:flex;gap:12px;margin-top:6px;}
+  .foot-social a{width:38px;height:38px;border-radius:50%;border:1px solid rgba(255,255,255,.18);display:flex;align-items:center;justify-content:center;color:#fff;}
+  .foot-social a:hover{background:var(--accent);border-color:var(--accent);color:var(--dark);}
+  .foot-social svg{width:17px;height:17px;}
+  .foot-bottom{display:flex;justify-content:space-between;align-items:center;padding-top:22px;font-size:13px;color:#8a8478;flex-wrap:wrap;gap:10px;}
+
+  /* ---------- Floating Zalo ---------- */
+  .float-zalo{position:fixed;right:24px;bottom:24px;z-index:60;width:58px;height:58px;border-radius:50%;
+    background:var(--accent);display:flex;align-items:center;justify-content:center;box-shadow:0 14px 30px -10px rgba(232,199,82,.9);
+    animation:pulse 2.2s ease-in-out infinite;}
+  .float-zalo svg{width:28px;height:28px;color:var(--dark);}
+  @keyframes pulse{0%,100%{box-shadow:0 0 0 0 rgba(232,199,82,.55);}50%{box-shadow:0 0 0 14px rgba(232,199,82,0);}}
+
+  /* ---------- Responsive ---------- */
+  @media (max-width:980px){
+    nav{display:none;}
+    .burger{display:flex;}
+    .features-grid{grid-template-columns:repeat(2,1fr);}
+    .about-grid,.commit-grid{grid-template-columns:1fr;gap:48px;}
+    .about-collage{max-width:420px;margin:0 auto 8px;}
+    .services-grid{grid-template-columns:repeat(2,1fr);}
+    .gallery-grid{grid-template-columns:repeat(3,1fr);}
+    .foot-grid{grid-template-columns:1fr 1fr;}
+    .foot-brand{grid-column:1/-1;}
+  }
+  @media (max-width:600px){
+    .headbar{height:70px;}
+    .brand-text span{display:none;}
+    .hero-inner{padding:64px 20px 72px;}
+    .hero-btns .btn{flex:1 1 auto;}
+    section{padding:64px 0;}
+    .features-grid{grid-template-columns:1fr 1fr;gap:28px;padding:40px 0;}
+    .services-grid{grid-template-columns:1fr;}
+    .gallery-grid{grid-template-columns:repeat(2,1fr);}
+    .foot-grid{grid-template-columns:1fr;gap:32px;}
+    .about-img2{width:70%;}
+  }
+
+
+  /* ---------- Typography lock: Arial + Vietnamese UTF-8 ---------- */
+  html, body, body *, body *::before, body *::after{
+    font-family:Arial, Helvetica, sans-serif !important;
+  }
+  body{
+    -webkit-text-size-adjust:100%;
+    text-rendering:optimizeLegibility;
+  }
+  .feature p,
+  .about-copy p,
+  .service-card p,
+  .commit-list p,
+  .trust-intro,
+  .foot-brand p,
+  .foot-col li{
+    text-align:justify;
+    text-justify:inter-word;
+  }
+
+  /* ---------- Real customer reviews ---------- */
+  .trust{background:var(--soft);}
+  .trust-intro{
+    max-width:860px;
+    margin:-24px auto 34px;
+    font-size:15px;
+    line-height:1.75;
+    color:#4a4a4a;
+  }
+  .review-grid{
+    display:grid;
+    grid-template-columns:repeat(2,minmax(0,1fr));
+    gap:20px;
+    max-width:1120px;
+    margin:0 auto;
+    align-items:start;
+  }
+  .review-shot{
+    margin:0;
+    overflow:hidden;
+    border-radius:18px;
+    border:1px solid rgba(0,0,0,.10);
+    background:#fff;
+    box-shadow:0 18px 42px -28px rgba(0,0,0,.35);
+  }
+  .review-shot img{
+    display:block;
+    width:100%;
+    height:auto;
+    object-fit:contain;
+    background:#fff;
+  }
+  .review-cta{margin-top:34px;}
+
+  /* Hero starts at the very top after removing the navigation bar */
+  .hero{margin-top:0;}
+
+  @media (max-width:760px){
+    .review-grid{grid-template-columns:1fr;gap:14px;}
+    .trust-intro{margin-top:-18px;font-size:14px;line-height:1.7;}
+  }
+</style>
+<style id="hv-font-and-original-hero">
+
+
+html,body,body *,body *::before,body *::after{font-family:Arial,Helvetica,sans-serif!important;}
+h1,h2,h3,h4,.brand-text b{font-weight:700!important;line-height:1.25;}
+.hero{background:var(--dark);}
+.hero-bg{position:relative;inset:auto;}
+.hero-bg img{display:block;width:100%;height:auto;max-height:none;aspect-ratio:auto;object-fit:contain;}
+.hero-bg::after{display:none;}
+.hero-inner{padding:36px 24px 42px;}
+@media(max-width:600px){.hero-inner{padding:28px 20px 32px;}.hero-point{white-space:normal;}.features-grid{padding-left:24px;padding-right:24px;}}
+</style>
+<style id="hv-cover-overlay-and-logo-spacing">
+.brand-text{gap:7px;}
+.brand-text b,.brand-text span{line-height:1.2;}
+.hero{display:grid;isolation:isolate;background:var(--dark);}
+.hero-bg,.hero-inner{grid-area:1 / 1;}
+.hero-bg{position:relative;inset:auto;min-width:0;align-self:stretch;}
+.hero-bg img{width:100%;height:100%;object-fit:contain;object-position:center;}
+.hero-bg::after{content:"";display:block;position:absolute;inset:0;background:linear-gradient(90deg,rgba(0,0,0,.52),rgba(0,0,0,.30));pointer-events:none;}
+.hero-inner{position:relative;z-index:2;width:100%;align-self:center;padding:48px 24px;}
+.hero .eyebrow{line-height:1.5;text-shadow:0 1px 4px rgba(0,0,0,.6);}
+.hero-point{background:rgba(20,20,20,.38);border-color:rgba(255,255,255,.48);text-shadow:0 1px 3px rgba(0,0,0,.65);}
+.hero .btn-outline-light{background:rgba(0,0,0,.24);}
+.hero .btn-outline-light:hover{background:#fff;}
+@media(max-width:600px){
+ .hero-inner{padding:24px 20px;}
+ .hero .eyebrow{font-size:13px;margin-bottom:12px;}
+ .hero-points{gap:8px;}
+ .hero-point{font-size:12px;padding:8px 12px;}
+ .hero-btns{gap:10px;margin-top:22px;}
+ .hero-btns .btn{padding:12px 18px;font-size:12px;}
 }
 </style>
-<style id="hv-global-font-lock">html,body,body *,body *::before,body *::after{font-family:Arial,Helvetica,sans-serif!important}html,body{margin:0!important;padding:0!important;-webkit-text-size-adjust:100%}</style><meta content="Địa chỉ HV Mobile Quảng Ngãi: 43 Lê Thánh Tôn, phường Cẩm Thành. Mua bán iPhone, thu cũ đổi mới, bảo hành và sửa chữa. Có chỉ đường Google Maps." name="description"/><meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots"/><meta content="hv mobile quảng ngãi, cửa hàng iphone quảng ngãi, cửa hàng điện thoại quảng ngãi, shop iphone quảng ngãi, cửa hàng bán iphone gần đây, mua điện thoại gần đây nhất, sửa điện thoại quảng ngãi" name="keywords"/><meta content="HV Mobile Quảng Ngãi | Địa Chỉ Cửa Hàng iPhone Gần Đây" property="og:title"/><meta content="Địa chỉ HV Mobile Quảng Ngãi: 43 Lê Thánh Tôn, phường Cẩm Thành. Mua bán iPhone, thu cũ đổi mới, bảo hành và sửa chữa. Có chỉ đường Google Maps." property="og:description"/><meta content="https://hvmobile.netlify.app/lien-he/" property="og:url"/><meta content="website" property="og:type"/><meta content="summary" name="twitter:card"/><link href="https://hvmobile.netlify.app/lien-he/" rel="canonical"/><script id="hv-localbusiness-schema" type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"ElectronicsStore","@id":"https://hvmobile.netlify.app/lien-he/#quang-ngai","name":"HV Mobile Quảng Ngãi","url":"https://hvmobile.netlify.app/lien-he/","telephone":"+84901970567","address":{"@type":"PostalAddress","streetAddress":"43 Lê Thánh Tôn, phường Cẩm Thành","addressLocality":"Quảng Ngãi","addressRegion":"Quảng Ngãi","addressCountry":"VN"},"openingHours":"Mo-Su 08:00-21:00","areaServed":"Quảng Ngãi","knowsAbout":["iPhone","iPhone cũ","iPhone Like New","trả góp iPhone","thu cũ đổi mới iPhone","bảo hành iPhone","sửa chữa iPhone"]},{"@type":"ElectronicsStore","@id":"https://hvmobile.netlify.app/lien-he/#da-nang","name":"HV Mobile Đà Nẵng","url":"https://hvmobile.netlify.app/lien-he/","telephone":"+84899822225","address":{"@type":"PostalAddress","streetAddress":"649 Trần Cao Vân","addressLocality":"Đà Nẵng","addressRegion":"Đà Nẵng","addressCountry":"VN"},"openingHours":"Mo-Su 08:00-22:00","areaServed":"Đà Nẵng","knowsAbout":["iPhone","iPhone cũ","iPhone Like New","trả góp iPhone","thu cũ đổi mới iPhone","bảo hành iPhone","sửa chữa iPhone"]}]}</script><link href="../hv-mobile-google-192.png" rel="icon" sizes="192x192" type="image/png"/>
-<link href="../hv-mobile-google-192.png" rel="shortcut icon" type="image/png"/>
-<link href="../hv-mobile-google-192.png" rel="apple-touch-icon"/>
-<link href="../assets/hv-shell.css" rel="stylesheet"/>
-<meta content="HV Mobile" property="og:site_name"/>
-<script id="hv-local-business-schema" type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "MobilePhoneStore",
-      "@id": "https://hvmobile.netlify.app/#quang-ngai",
-      "name": "HV Mobile Quảng Ngãi",
-      "url": "https://hvmobile.netlify.app/",
-      "logo": "https://hvmobile.netlify.app/hv-mobile-google-192.png",
-      "image": "https://hvmobile.netlify.app/hv-mobile-google-192.png",
-      "telephone": "+84901970567",
-      "priceRange": "₫₫",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "43 Lê Thánh Tôn, phường Cẩm Thành",
-        "addressLocality": "Quảng Ngãi",
-        "addressRegion": "Quảng Ngãi",
-        "addressCountry": "VN"
-      },
-      "geo": {
-        "@type": "GeoCoordinates",
-        "latitude": 15.1141504,
-        "longitude": 108.8097280
-      },
-      "hasMap": "https://www.google.com/maps/search/?api=1&query=HV+Mobile+Qu%E1%BA%A3ng+Ng%C3%A3i&query_place_id=ChIJkTCz6WBTaDERt37BTiZZTbM",
-      "sameAs": ["https://www.facebook.com/HVMobile/", "https://zalo.me/4499562857082296287"]
-    },
-    {
-      "@type": "MobilePhoneStore",
-      "@id": "https://hvmobile.netlify.app/#da-nang",
-      "name": "HV Mobile Đà Nẵng",
-      "url": "https://hvmobile.netlify.app/lien-he/",
-      "logo": "https://hvmobile.netlify.app/hv-mobile-google-192.png",
-      "image": "https://hvmobile.netlify.app/hv-mobile-google-192.png",
-      "telephone": "+84899822225",
-      "priceRange": "₫₫",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "649 Trần Cao Vân, phường Thanh Khê",
-        "addressLocality": "Đà Nẵng",
-        "addressRegion": "Đà Nẵng",
-        "addressCountry": "VN"
-      },
-      "hasMap": "https://www.google.com/maps/search/?api=1&query=649+Trần+Cao+Vân,+Đà+Nẵng",
-      "sameAs": ["https://www.facebook.com/HVMobile/", "https://zalo.me/4499562857082296287"]
-    }
-  ]
-}</script>
+<style id="hv-prominent-hero-and-heading-wrap">
+.hero .eyebrow{font-size:clamp(24px,3.2vw,42px);font-weight:700;line-height:1.3;letter-spacing:.015em;color:#f5d85c;text-shadow:0 2px 7px rgba(0,0,0,.85);margin-bottom:24px;}
+.hero .eyebrow svg{width:clamp(22px,2.5vw,32px);height:clamp(22px,2.5vw,32px);}
+.services .section-head{max-width:900px;}
+.services .section-head h2{text-wrap:balance;line-height:1.3;}
+.service-heading-tail{white-space:nowrap;}
+@media(max-width:600px){
+ .hero .eyebrow{font-size:clamp(22px,5.8vw,32px);margin-bottom:20px;}
+ .services .section-head h2{font-size:clamp(24px,6.2vw,32px);}
+}
+</style>
+<style id="hv-global-font-lock">html,body,body *,body *::before,body *::after{font-family:Arial,Helvetica,sans-serif!important}html,body{margin:0!important;padding:0!important;-webkit-text-size-adjust:100%}</style><style id="hv-home-responsive-update">
+.hero .eyebrow{display:flex;align-items:center;gap:10px;white-space:nowrap;font-size:clamp(28px,3.9vw,56px)!important;letter-spacing:-.025em;line-height:1.3;font-weight:700}
+.hero .eyebrow svg{flex-shrink:0;width:.7em;height:.7em}
+.hero-inner{max-width:1440px}
+.commit-photo{height:auto;align-self:start;max-width:430px;margin:auto;border-radius:18px;overflow:hidden}
+.commit-photo img{width:100%;height:auto;object-fit:contain;display:block}
+.commit h2{font-size:clamp(24px,3.2vw,42px);line-height:1.2}
+@media(max-width:760px){
+.wrap{padding-left:16px;padding-right:16px}
+.hero-inner{padding:30px 14px!important}
+.hero .eyebrow{font-size:3.65vw!important;gap:5px;margin-bottom:18px}
+.hero-bg img{object-fit:cover}
+.hero-points{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.hero-point{font-size:12px;white-space:normal;line-height:1.5;padding:8px}
+.hero-btns{display:grid;grid-template-columns:1fr 1fr}
+.hero-btns .btn{white-space:normal;padding:12px 8px;min-height:44px}
+.about-grid,.commit-grid{grid-template-columns:1fr!important;gap:24px}
+.about-collage{max-width:100%;min-width:0}
+.commit-photo{width:min(100%,380px)}
+section{padding-top:36px;padding-bottom:36px}
+}
+</style><meta content="Tìm hiểu HV Mobile Quảng Ngãi: kiểm định iPhone trước khi bán, giá minh bạch, bảo hành rõ ràng, thu cũ trợ giá và hỗ trợ trả góp." name="description"/><meta content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1" name="robots"/><meta content="hv mobile quảng ngãi, hv mobile có uy tín không, shop iphone uy tín quảng ngãi, cửa hàng iphone nào uy tín ở quảng ngãi, cửa hàng điện thoại uy tín quảng ngãi" name="keywords"/><meta content="HV Mobile Quảng Ngãi Có Uy Tín Không? | Giới Thiệu Cửa Hàng" property="og:title"/><meta content="Tìm hiểu HV Mobile Quảng Ngãi: kiểm định iPhone trước khi bán, giá minh bạch, bảo hành rõ ràng, thu cũ trợ giá và hỗ trợ trả góp." property="og:description"/><meta content="https://hvmobile.netlify.app/gioi-thieu/" property="og:url"/><meta content="website" property="og:type"/><meta content="summary" name="twitter:card"/><link href="https://hvmobile.netlify.app/" rel="canonical"/><link rel="stylesheet" href="../assets/hv-shell.css">
 </head>
 <body>
-<header class="site-header">
-<div class="header-inner">
-<a aria-label="HV Mobile - Trang chủ" class="logo-link" href="../"><img alt="Logo HV Mobile" src="../assets/img-063.jpg"/></a>
-<nav aria-label="Điều hướng chính" class="desktop-nav"><a href="../">GIỚI THIỆU</a><a href="../iphone/">IPHONE</a><a href="../phu-kien/">PHỤ KIỆN</a><a href="../bao-hanh/">BẢO HÀNH</a><a href="../tra-gop/">TRẢ GÓP</a><a href="../thu-cu/">THU CŨ ĐỔI MỚI</a><a href="../sua-chua/">SỬA CHỮA</a><a href="../bai-viet/">BÀI VIẾT</a><a class="active" aria-current="page" href="../lien-he/">LIÊN HỆ</a></nav>
-<div class="header-actions">
-<a class="zalo" href="https://zalo.me/4499562857082296287" rel="noopener" target="_blank">ZALO</a>
-<a class="call" href="tel:0901970567">GỌI NGAY</a>
-<a class="fb" href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank">FANPAGE</a>
-</div>
-<button aria-expanded="false" aria-label="Mở menu" class="menu-btn" id="menuBtn">☰</button>
-</div>
-<div class="mobile-menu" id="mobileMenu"><div class="navs"><a href="../">GIỚI THIỆU</a><a href="../iphone/">IPHONE</a><a href="../phu-kien/">PHỤ KIỆN</a><a href="../bao-hanh/">BẢO HÀNH</a><a href="../tra-gop/">TRẢ GÓP</a><a href="../thu-cu/">THU CŨ ĐỔI MỚI</a><a href="../sua-chua/">SỬA CHỮA</a><a href="../bai-viet/">BÀI VIẾT</a><a class="active" aria-current="page" href="../lien-he/">LIÊN HỆ</a></div><div class="acts"><a href="https://zalo.me/4499562857082296287" rel="noopener" target="_blank">ZALO</a><a href="tel:0901970567">GỌI NGAY 0901 970 567</a><a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank">FANPAGE</a></div></div>
-</header>
-<main id="main-content">
-<div class="page">
-<div class="topbar">
-<div class="wrap topbar-inner">
-<div class="brand">HV MOBILE</div>
-<div class="top-note">Quảng Ngãi • Đà Nẵng</div>
-</div>
-</div>
-<section class="hero">
+<!-- ============ HERO ============ -->
+<section class="hero" id="top" style="padding:0;">
+<div class="hero-bg"><img alt="Không gian cửa hàng HV Mobile" src="../assets/img-000.jpg"/></div>
 <div class="wrap hero-inner">
-<div class="eyebrow">THÔNG TIN CỬA HÀNG</div>
-<p>Chọn chi nhánh gần bạn để xem đường đi hoặc gọi hỗ trợ nhanh trước khi đến cửa hàng.</p>
+<span class="eyebrow"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M11 20A7 7 0 0 1 4 13V7a1 1 0 0 1 1-1h6a7 7 0 0 1 7 7v0a7 7 0 0 1-7 7Z"></path><path d="M4 13c6 0 9-3 9-9"></path></svg>HV Mobile – iPhone chính hãng</span>
+<div class="hero-points">
+<span class="hero-point">iPhone tuyển chọn kỹ lưỡng</span>
+<span class="hero-point">Giá minh bạch</span>
+<span class="hero-point">Bảo hành rõ ràng</span>
+<span class="hero-point">Thu cũ trợ giá</span>
+<span class="hero-point">Trả góp linh hoạt</span>
+</div>
+<div class="hero-btns">
+<a class="btn btn-primary" href="#dich-vu">Xem bảng giá</a>
+<a class="btn btn-outline-light" href="https://zalo.me/4499562857082296287" rel="noopener" target="_blank">Nhắn Zalo</a>
+</div>
 </div>
 </section>
-<section class="branches">
-<div class="wrap branch-grid">
-<article class="branch-card">
-<div class="branch-image-wrap">
-<img alt="Chi nhánh HV Mobile Quảng Ngãi" class="branch-image" src="../assets/img-061.jpg"/>
-<div class="branch-badge">CHI NHÁNH QUẢNG NGÃI</div>
+<!-- ============ FEATURES ============ -->
+<section class="features" style="padding:0;">
+<div class="wrap features-grid">
+<div class="feature">
+<div class="feature-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg></div>
+<h3>GIÁ MINH BẠCH</h3>
+<p>Giá bán rõ ràng, cập nhật thường xuyên, tư vấn đúng nhu cầu.</p>
 </div>
-<div class="branch-body">
-<div class="branch-top">
-<div class="branch-title-block">
-<h2>HV Mobile Quảng Ngãi</h2>
+<div class="feature">
+<div class="feature-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M12 2 4 5v6c0 5 3.4 8.7 8 11 4.6-2.3 8-6 8-11V5l-8-3Z"></path><path d="m9 12 2 2 4-4"></path></svg></div>
+<h3>KIỂM ĐỊNH KỸ LƯỠNG</h3>
+<p>iPhone được kiểm tra ngoại hình, pin và chức năng trước khi giao khách.</p>
 </div>
-<div class="branch-code">CS1</div>
+<div class="feature">
+<div class="feature-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M4 12a8 8 0 0 1 14.9-4M20 12a8 8 0 0 1-14.9 4M18 4v4h-4M6 20v-4h4"></path></svg></div>
+<h3>BẢO HÀNH RÕ RÀNG</h3>
+<p>Chính sách minh bạch, hỗ trợ nhanh chóng trong quá trình sử dụng.</p>
 </div>
-<p class="address">43 Lê Thánh Tôn, phường Cẩm Thành, Quảng Ngãi</p>
-<div class="info-box">
-<span class="hours-title">Thời gian mở cửa:</span>
-<div class="hours-text">Thứ 2 - Chủ Nhật (kể cả Ngày Lễ) 08:00 - 22:00</div>
+<div class="feature">
+<div class="feature-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M20.8 4.6a5.5 5.5 0 0 0-7.8 0L12 5.5l-1-.9a5.5 5.5 0 0 0-7.8 7.8L12 21l8.8-8.6a5.5 5.5 0 0 0 0-7.8Z"></path></svg></div>
+<h3>HỖ TRỢ TẬN TÂM</h3>
+<p>Tư vấn trước và sau bán hàng, đồng hành lâu dài cùng khách hàng.</p>
 </div>
-<div class="service">Mua bán iPhone • Thu cũ đổi mới • Bảo hành • Sửa chữa</div>
-<div class="actions">
-<a class="btn btn-map" href="https://www.google.com/maps/dir/?api=1&amp;destination=HV+Mobile+Qu%E1%BA%A3ng+Ng%C3%A3i&amp;destination_place_id=ChIJkTCz6WBTaDERt37BTiZZTbM" rel="noopener" target="_blank">CHỈ ĐƯỜNG</a>
-<a class="btn btn-call" href="tel:0901970567">GỌI NGAY</a>
-</div>
-</div>
-</article>
-<article class="branch-card">
-<div class="branch-image-wrap">
-<img alt="Chi nhánh HV Mobile Đà Nẵng" class="branch-image" src="../assets/img-062.webp"/>
-<div class="branch-badge">CHI NHÁNH ĐÀ NẴNG</div>
-</div>
-<div class="branch-body">
-<div class="branch-top">
-<div class="branch-title-block">
-<h2>HV Mobile Đà Nẵng</h2>
-</div>
-<div class="branch-code">CS2</div>
-</div>
-<p class="address">649 Trần Cao Vân, phường Thanh Khê, Đà Nẵng</p>
-<div class="info-box">
-<span class="hours-title">Thời gian mở cửa:</span>
-<div class="hours-text">Thứ 2 - Chủ Nhật (kể cả Ngày Lễ) 08:00 - 22:00</div>
-</div>
-<div class="service">Mua bán iPhone • Thu cũ đổi mới • Bảo hành • Sửa chữa</div>
-<div class="actions">
-<a class="btn btn-map" href="https://www.google.com/maps/dir/?api=1&amp;destination=649+Tran+Cao+Van,+phuong+Thanh+Khe,+Da+Nang" rel="noopener" target="_blank">CHỈ ĐƯỜNG</a>
-<a class="btn btn-call" href="tel:0899822225">GỌI NGAY</a>
-</div>
-</div>
-</article>
 </div>
 </section>
+<!-- ============ ABOUT ============ -->
+<section class="about" id="gioi-thieu">
+<div class="wrap about-grid">
+<div class="about-collage">
+<div class="about-img1"><img alt="Không gian trải nghiệm iPhone tại HV Mobile" src="../assets/img-001.jpg"/></div>
+<div class="about-img2"><img alt="Mặt tiền cửa hàng HV Mobile" src="../assets/img-002.jpg"/></div>
 </div>
-</main>
+<div class="about-copy">
+<span class="eyebrow"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M11 20A7 7 0 0 1 4 13V7a1 1 0 0 1 1-1h6a7 7 0 0 1 7 7v0a7 7 0 0 1-7 7Z"></path><path d="M4 13c6 0 9-3 9-9"></path></svg>HV Mobile</span>
+<h2>Đồng hành cùng bạn trong từng lần lên đời iPhone</h2>
+<p>HV Mobile hướng đến trải nghiệm mua iPhone minh bạch, thuận tiện và an tâm. Mỗi sản phẩm được kiểm tra kỹ trước khi đến tay khách hàng, đi kèm chính sách bảo hành rõ ràng và đội ngũ hỗ trợ xuyên suốt trước – trong – sau bán hàng.</p>
+<ul class="checklist">
+<li><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" viewbox="0 0 24 24"><path d="M20 6 9 17l-5-5"></path></svg>Sản phẩm được kiểm định trước khi bán</li>
+<li><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" viewbox="0 0 24 24"><path d="M20 6 9 17l-5-5"></path></svg>Giá cả và tình trạng máy minh bạch</li>
+<li><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.4" viewbox="0 0 24 24"><path d="M20 6 9 17l-5-5"></path></svg>Hỗ trợ hậu mãi và bảo hành rõ ràng</li>
+</ul>
+<a class="btn btn-outline-dark" href="https://zalo.me/4499562857082296287">Liên hệ</a>
+</div>
+</div>
+</section>
+<!-- ============ SERVICES ============ -->
+<section class="services" id="dich-vu">
+<div class="wrap">
+<div class="section-head">
+<span class="eyebrow"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M11 20A7 7 0 0 1 4 13V7a1 1 0 0 1 1-1h6a7 7 0 0 1 7 7v0a7 7 0 0 1-7 7Z"></path><path d="M4 13c6 0 9-3 9-9"></path></svg>Dịch vụ HV Mobile</span>
+<h2><span>Mọi nhu cầu về iPhone</span> <span class="service-heading-tail">trong một nơi</span></h2>
+</div>
+<div class="services-grid">
+<div class="service-card">
+<div class="service-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><rect height="20" rx="2.5" width="10" x="7" y="2"></rect><path d="M11 18h2"></path></svg></div>
+<h3>iPhone</h3>
+<p>Nhiều dòng máy, dung lượng và mức giá để lựa chọn.</p>
+</div>
+<div class="service-card">
+<div class="service-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M3 12a9 9 0 1 0 3-6.7"></path><path d="M3 4v5h5"></path></svg></div>
+<span class="tag">Thu cũ đổi mới</span>
+<h3>Lên đời dễ dàng</h3>
+<p>Hỗ trợ định giá máy cũ và lên đời iPhone thuận tiện.</p>
+</div>
+<div class="service-card">
+<div class="service-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><rect height="13" rx="2.5" width="20" x="2" y="6"></rect><path d="M2 10h20"></path></svg></div>
+<span class="tag">Trả góp</span>
+<h3>Trả góp linh hoạt</h3>
+<p>Nhiều phương án thanh toán phù hợp với nhu cầu khách hàng.</p>
+</div>
+<div class="service-card">
+<div class="service-icon"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="m14.7 6.3-8.4 8.4a2 2 0 0 0 0 2.8l.2.2a2 2 0 0 0 2.8 0l8.4-8.4"></path><path d="m18 3 3 3-2 2-3-3Z"></path></svg></div>
+<h3>Sửa chữa &amp; hậu mãi</h3>
+<p>Hỗ trợ sửa chữa, phụ kiện và bảo hành sau bán hàng.</p>
+</div>
+</div>
+<div class="services-cta">
+<a class="btn btn-outline-dark" href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank">Xem tất cả dịch vụ →</a>
+</div>
+</div>
+</section>
+<!-- ============ COMMITMENTS ============ -->
+<section class="commit" id="cam-ket">
+<div class="wrap">
+<div class="section-head">
+<span class="eyebrow"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M11 20A7 7 0 0 1 4 13V7a1 1 0 0 1 1-1h6a7 7 0 0 1 7 7v0a7 7 0 0 1-7 7Z"></path><path d="M4 13c6 0 9-3 9-9"></path></svg>HV Mobile cam kết</span>
+<h2>UY TÍN ĐẾN TỪ SỰ MINH BẠCH</h2>
+</div>
+<div class="commit-grid">
+<ul class="commit-list">
+<li>
+<span class="commit-num">01</span>
+<div><h3>MINH BẠCH SẢN PHẨM</h3><p>Tình trạng máy và thông tin quan trọng được tư vấn rõ ràng trước khi khách hàng quyết định.</p></div>
+</li>
+<li>
+<span class="commit-num">02</span>
+<div><h3>KIỂM ĐỊNH TRƯỚC KHI GIAO</h3><p>Sản phẩm được kiểm tra các chức năng quan trọng trước khi bàn giao.</p></div>
+</li>
+<li>
+<span class="commit-num">03</span>
+<div><h3>HẬU MÃI LÂU DÀI</h3><p>Hỗ trợ bảo hành, phần mềm và chăm sóc khách hàng sau khi mua.</p></div>
+</li>
+</ul>
+<div class="commit-photo"><img alt="Nhân viên HV Mobile tư vấn và kiểm tra máy cùng khách hàng" src="../assets/img-003.jpg"/></div>
+</div>
+</div>
+</section>
+<!-- ============ GALLERY ============ -->
+<section class="gallery" id="hinh-anh">
+<div class="wrap">
+<div class="section-head">
+<span class="eyebrow"><svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24"><path d="M11 20A7 7 0 0 1 4 13V7a1 1 0 0 1 1-1h6a7 7 0 0 1 7 7v0a7 7 0 0 1-7 7Z"></path><path d="M4 13c6 0 9-3 9-9"></path></svg>Hình ảnh thực tế tại HV Mobile</span>
+<h2>Khoảnh khắc tại HV Mobile</h2>
+</div>
+<div class="gallery-grid">
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="Khách hàng tại HV Mobile" src="../assets/img-004.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="Tư vấn tại HV Mobile" src="../assets/img-005.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="Bàn giao iPhone HV Mobile" src="../assets/img-006.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="Kỹ thuật sửa chữa HV Mobile" src="../assets/img-007.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="iPhone chính hãng tại HV Mobile" src="../assets/img-008.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="iPhone tại HV Mobile" src="../assets/img-009.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="Tư vấn khách hàng HV Mobile" src="../assets/img-010.jpg"/></a>
+<a href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank"><img alt="Khoảnh khắc khách hàng tại HV Mobile" src="../assets/img-011.jpg"/></a>
+</div>
+<div class="gallery-cta">
+<a class="btn btn-outline-dark" href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank">Xem thêm trên Fanpage →</a>
+</div>
+</div>
+</section>
+<!-- ============ TRUST ============ -->
+<section class="trust" id="danh-gia">
+<div class="wrap">
+<div class="section-head">
+<span class="eyebrow">ĐÁNH GIÁ THỰC TẾ</span>
+<h2>Khách hàng nói gì về HV Mobile?</h2>
+</div>
+<p class="trust-intro">Những phản hồi bên dưới là hình ảnh đánh giá thực tế từ khách hàng đã trải nghiệm sản phẩm và dịch vụ tại HV Mobile. Nội dung được giữ nguyên từ ảnh khách hàng đánh giá trên Facebook.</p>
+<div class="review-grid">
+<figure class="review-shot">
+<img alt="Đánh giá thực tế của khách hàng HV Mobile" loading="lazy" src="../assets/img-012.webp"/>
+</figure>
+<figure class="review-shot">
+<img alt="Phản hồi thực tế của khách hàng HV Mobile" loading="lazy" src="../assets/img-013.webp"/>
+</figure>
+<figure class="review-shot">
+<img alt="Khách hàng đánh giá HV Mobile trên Facebook" loading="lazy" src="../assets/img-014.webp"/>
+</figure>
+<figure class="review-shot">
+<img alt="Nhận xét thực tế từ khách hàng HV Mobile" loading="lazy" src="../assets/img-015.webp"/>
+</figure>
+</div>
+<div class="gallery-cta review-cta">
+<a class="btn btn-outline-dark" href="https://www.facebook.com/HVMobile/" rel="noopener" target="_blank">Xem thêm đánh giá trên Fanpage →</a>
+</div>
+</div>
+</section>
+<!-- ============ FINAL CTA ============ -->
+<!-- ============ FOOTER ============ -->
+
 <footer class="site-footer" id="footer-contact">
 <div class="footer-inner">
 <div class="foot-grid">
